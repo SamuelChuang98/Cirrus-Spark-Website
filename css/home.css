@@ -1,0 +1,103 @@
+.wrapper {
+    min-height:1000px;
+    overflow:hidden;
+}
+/*Top*/
+
+#main-top{
+    margin-top:100px;
+    height: 400px;
+}
+
+#info-top{
+    margin-left:15%;
+    margin-top:175px;
+    width:350px;
+}
+
+#info-top h2{
+    font-size:50px;
+}
+
+    #withUs {
+        float:right;
+        text-align:right;
+        margin-top:-50px;
+        margin-right:10px;
+        width:100%;
+        clear:both;
+    }
+
+    #withUs p{
+        float: right;
+    }
+
+    #withUs img{
+        width:100px;
+        float: right;
+        margin-top:5px;
+    }
+
+#info-top button{
+    float: left;
+    background:black;
+    color:white;
+    border:none;
+    margin-right:20px;
+    padding:10px;
+}
+
+/* MISSION STATEMENT */
+
+#m-statement {
+    background: #CFCFCF;
+    height:300px;
+    overflow:hidden;
+}
+
+#statement-box{
+    width:45%;
+    background:white;
+    border-left:20px solid #898989;
+    margin:0 auto;
+    margin-top:75px;
+    padding:20px;
+}
+
+#statement-box h2{
+    text-align:center;
+}
+
+#statement-box p{
+    width:80%;
+    margin:0 auto;
+}
+
+/* OUR SERVICES */
+
+#ourServices {
+    margin-top:50px;
+}
+
+#ourServices h2{
+    text-align:center;
+    border-bottom:1px solid black;
+    width:200px;
+    margin:0 auto;
+}
+
+#web-sect{
+    margin-top:50px;
+}
+
+.img {
+    background:grey;
+    width:60%;
+    float:left;
+    height:500px;
+    margin-left:50px;
+}
+
+.serv-desc{
+    background:white;
+}
