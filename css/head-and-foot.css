@@ -12,6 +12,7 @@ nav {
     width:100%;
     position:absolute;
     background:white;
+    z-index:10000;
 }
 
 ul {
@@ -26,13 +27,13 @@ ul {
 nav li {
     float:left;
     margin-left:4%;
-    margin-top:25px;
+    margin-top:30px;
     width:15%;
 }
 
 #logo{
     width:200px;
-    margin-top:-30px;
+    margin-top:-35px;
 }
 
 ul a{
