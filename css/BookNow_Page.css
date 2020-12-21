@@ -12,7 +12,9 @@
     transform: translate(-50%, -50%);
   }
 
-  .class_name { 
-    display: flex;
-    align-items:center;
-}
+  body{
+    background-image: url("img/bluetech.jpg");
+  }
+  
+
+  
