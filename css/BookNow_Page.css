@@ -1,20 +1,36 @@
-/* Container holding the image and the text */
-.container {
-    position: relative;
-    text-align: center;
-    color: black;
-  }
-  /* Centered text */
-  .centered {
+#top{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-  body{
-    background-image: url("img/bluetech.jpg");
-  }
-  
-
-  
+    width: 1441px;
+    height: 547px;
+    left: -1px;
+    top: 99px;
+    background: hsl(0, 0%, 100%);
+    }
+    
+    #verticaltext{
+    position: absolute;
+    width: 503px;
+    height: 87px;
+    left: 88px;
+    top: 120px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 112px;
+    
+    color: #FFFFFF;
+    
+    transform: rotate(90deg);
+    }
+    
+    #centeredtext{
+    position: absolute;
+    width: 1441px;
+    height: 547px;
+    left: -1px;
+    top: 99px;
+    
+    background: #DFDFDF;
+    }
