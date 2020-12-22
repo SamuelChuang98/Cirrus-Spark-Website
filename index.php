@@ -32,18 +32,39 @@
         <h2>OUR SERVICES</h2>
         <div id="web-sect">
             <div class="img">
+            </div>
+            <div class="serv-desc">
+                <h4>CREATE PROFESSIONAL WEBSITES</h4>
+                <p>We believe in bringing more user attention with good branding. 
+                    This is why we spend extra time with the clients to discuss and 
+                    plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
+                <button>LEARN MORE > </button>
+            </div>
+        </div>
+        <div id="serv-sect">
+        <div class="img">
+
+        </div>
+            <div class="serv-desc">
+                <h4>CREATE PROFESSIONAL WEBSITES</h4>
+                <p>We believe in bringing more user attention with good branding. 
+                    This is why we spend extra time with the clients to discuss and 
+                    plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
+                <button>LEARN MORE > </button>
+            </div>
+            
+        </div>
+        <div id="media-sect">
+            <div class="img">
 
             </div>
             <div class="serv-desc">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
-
+                <p>We believe in bringing more user attention with good branding. 
+                    This is why we spend extra time with the clients to discuss and 
+                    plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
+                <button>LEARN MORE > </button>
             </div>
-        </div>
-        <div id="serv-sect">
-
-        </div>
-        <div id="media-sect">
-
         </div>
 
 
@@ -54,5 +75,6 @@
 </section>
 
 <?php
+    include("includes/footer-2.php");
     include("includes/footer.php");
 ?>

@@ -62,6 +62,7 @@
     margin:0 auto;
     margin-top:75px;
     padding:20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
 }
 
 #statement-box h2{
@@ -71,6 +72,7 @@
 #statement-box p{
     width:80%;
     margin:0 auto;
+    
 }
 
 /* OUR SERVICES */
@@ -86,18 +88,58 @@
     margin:0 auto;
 }
 
-#web-sect{
-    margin-top:50px;
+#ourServices button{
+    background:black;
+    color:white;
+    border:none;
+    padding:10px;
+}
+
+#ourServices button:hover{
+    background:grey;
+    color:white;
+    cursor:pointer;
+}
+
+#web-sect, #serv-sect, #media-sect{
+    margin-top:150px;
+    overflow:hidden;
+    display:block;
 }
 
 .img {
     background:grey;
-    width:60%;
+    width:50%;
     float:left;
     height:500px;
-    margin-left:50px;
+    margin-left:10%;
 }
 
 .serv-desc{
     background:white;
+    width:30%;
+    float:left;
+    margin-left:-100px;
+    padding:50px;
+    margin-top:6%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.serv-desc h4{
+    border-left:6px solid grey;
+    padding-left:5px;
+}
+
+#serv-sect .serv-desc{
+    float:right;
+}
+
+#serv-sect .img{
+    margin-left:-100px;
+    float:right;
+    margin-right:10%;
+}
+
+#media-sect {
+    margin-top:150px;
 }
