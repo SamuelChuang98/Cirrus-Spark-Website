@@ -24,9 +24,16 @@
          <strong>YOUR</strong> requirements
      </p1>
 
-     <list>
-         
-     </list>
+     <ol id= "list">
+         </br><li><h3><strong>FILL IN THE FORUM</strong></h3></br>You will be contacted with the</br>
+         <strong>next 1-2 business days</strong></li></br>
+
+         <li><h3><strong>SCHEDULE A MEETING</strong></h3></br>Tell us all of your requirements</br>
+         and we come up with our</br><strong>best solution !</strong></li></br>
+
+         <li><h3><strong>SIT BACK AND RELAX</strong></h3><strong>Regular review meetings</strong> will occur</br>
+        to make sure we are on the right path</li>
+     </ol>
 
 
  </section>

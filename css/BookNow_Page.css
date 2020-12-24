@@ -7,7 +7,7 @@
     overflow: hidden;
     float: left;
     margin-top: 285px;
-    margin-left: 150px;
+    margin-left: 515px;
 
     font-family: Roboto;
     font-style: normal;
@@ -40,10 +40,9 @@
     }
 
     #main img{
-        margin-top: 100px;
-        margin-right: 425px;
-        margin-left: 425px;
-        width: 25%;
+        margin-top: 70px;
+        margin-left: 755px;
+        width: 20%;
     }
     
     #main #getintouch h2{
@@ -84,4 +83,12 @@
         background-color: #DFDFDF;
         color: #DFDFDF;
         border: 2px solid #DFDFDF;
+    }
+
+    #main #getintouch #list{
+        
+        margin-left: 212.5px;
+        margin-top: 150px;
+        font-size: 26px;
+        
     }
