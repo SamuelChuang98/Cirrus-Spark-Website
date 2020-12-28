@@ -147,3 +147,43 @@ footer {
     color:white;
     cursor:pointer;
 }
+
+/******************** header-2 ********************/
+
+#top{
+    overflow: hidden;
+    height: 570px;
+    background: #DFDFDF;
+    width:100%;
+    padding-top:20px;
+
+}
+
+#center-text {
+    overflow: hidden;
+    width:30%;
+    margin-top: 285px;
+    margin-left:35%;
+    font-size: 28px;
+    text-align: center;
+    color: #000000;
+    position:absolute;
+    }
+
+#verticaltext{
+    overflow: hidden;
+    transform: rotate(90deg);
+    float: left;
+    margin-left: -200px;
+    margin-top: 280px;
+    font-size: 55px;
+    text-transform: uppercase;
+    display:block;
+}
+
+#verticaltext h2{
+    float: left;
+    color:white;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
