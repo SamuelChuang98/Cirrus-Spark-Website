@@ -6,7 +6,7 @@ $first_line="Your <strong>SATISFACTION</strong> will always";
 $second_line="be our <strong>#1 PRIORITY</strong>";
 
 include("includes/header.php"); 
-include("includes/header-2.php")
+include("includes/header-2.php");
 
 ?>
 <link rel="stylesheet" type="text/css" href="css/aboutUs.css">
