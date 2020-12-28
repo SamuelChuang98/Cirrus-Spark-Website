@@ -174,11 +174,12 @@ footer {
     overflow: hidden;
     transform: rotate(90deg);
     float: left;
-    margin-left: -200px;
+    margin-left: -180px;
     margin-top: 280px;
     font-size: 55px;
     text-transform: uppercase;
     display:block;
+    position:absolute;
 }
 
 #verticaltext h2{
