@@ -14,7 +14,8 @@
 </section>
 
 <section id="main">
-<img src="img/logo.png" alt="Cirrus Spark logo">
+
+<div id ="booknowlogo"><img src="img/logo.png" alt="Cirrus Spark logo"></div>
 
  <section id="getintouch">
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
@@ -82,7 +83,7 @@
              <option value="Digital Marketing">Digital Marketing</option>
            </select></br>
 
-         <input type="text" placeholder="Comments & Specifications" id="comments">
+         <textarea placeholder="Comments & specifications" id="comments"> </textarea>
          <input type="submit" Value="BOOK NOW" id="submit">
 
      </form>
