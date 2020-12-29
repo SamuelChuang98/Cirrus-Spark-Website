@@ -53,7 +53,7 @@
             
         </div>
         <div id="media-sect">
-        <img src="img/webDesign.jpg" class="img">
+        <img src="img/smedia.jpg" class="img">
             <div class="serv-desc">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 

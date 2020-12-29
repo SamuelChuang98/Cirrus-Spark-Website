@@ -99,7 +99,6 @@ footer {
     width:30px;
 }
 
-
 /* Contact Us */
 #contactFoot{
     float:left;
@@ -133,6 +132,9 @@ footer {
     margin-top:150px;
     text-align:center;
     padding-top:100px;
+    background-image: url("../img/bg.jpg");
+
+    
 }
 
 #beginProject button{
@@ -146,6 +148,12 @@ footer {
     background:grey;
     color:white;
     cursor:pointer;
+}
+
+#together {
+    color:#2cb1e5;
+    font-weight:bold;
+    font-size:30px;
 }
 
 /******************** header-2 ********************/
