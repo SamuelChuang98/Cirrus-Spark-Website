@@ -43,7 +43,7 @@
              </div>
              <div class="text1">
                  <strong id ="fill">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements</br>
-                 and we come up with our<strong>solution</strong></span>
+                 and we come up <strong>with our solution</strong></span>
              </div>
 
          </div>
@@ -63,8 +63,8 @@
 
 
  <div class ="quote">
-     <h4>FREE QUOTE</h4>
-     <span>Request today and recieve a <strong>15% discount!</strong></span>
+    <h4>FREE QUOTE</h4>
+    <span> Request today and recieve a <strong>15% discount!</strong></span>
 
 
      <form class= "fo">
@@ -82,14 +82,17 @@
              <option value="Digital Marketing">Digital Marketing</option>
            </select></br>
 
-         <input type="text" placeholder="Comments & Specifications">
+         <input type="text" placeholder="Comments & Specifications" id="comments">
+         <input type="submit" Value="BOOK NOW" id="submit">
 
      </form>
 </div>
 
 </section>
 
-
+<?php
+    include("includes/footer.php");
+?>
 
 
 
