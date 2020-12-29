@@ -6,7 +6,7 @@ $first_line="<strong>EXPLORE</strong> our top projects";
 $second_line="along with the <strong>CLIENT'S FEEDBACK</strong>";
 
 include("includes/header.php"); 
-include("includes/header-2.php")
+include("includes/header-2.php");
 
 ?>
 <link rel="stylesheet" type="text/css" href="css/portfolio.css">
