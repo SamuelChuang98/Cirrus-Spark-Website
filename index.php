@@ -18,6 +18,7 @@
             <button>CONTACT US</button>
             <button>OUR SERVICES</button>
         </div>
+        
     </section>
     <section id="m-statement">
         <div id="statement-box">
@@ -31,8 +32,7 @@
     <section id="ourServices">
         <h2>OUR SERVICES</h2>
         <div id="web-sect">
-            <div class="img">
-            </div>
+            <img src="img/webDesign.jpg" class="img">
             <div class="serv-desc">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
@@ -42,9 +42,7 @@
             </div>
         </div>
         <div id="serv-sect">
-        <div class="img">
-
-        </div>
+        <img src="img/server.jpg" class="img">
             <div class="serv-desc">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
@@ -55,9 +53,7 @@
             
         </div>
         <div id="media-sect">
-            <div class="img">
-
-            </div>
+        <img src="img/webDesign.jpg" class="img">
             <div class="serv-desc">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 

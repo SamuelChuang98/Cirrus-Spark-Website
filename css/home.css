@@ -5,13 +5,17 @@
 /*Top*/
 
 #main-top{
-    margin-top:100px;
-    height: 400px;
+    margin-top:90px;
+    height: 500px;
+    padding-top:80px;
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #info-top{
+
     margin-left:15%;
-    margin-top:175px;
     width:350px;
 }
 
@@ -40,7 +44,7 @@
 
 #info-top button{
     float: left;
-    background:black;
+    background-color: black;
     color:white;
     border:none;
     margin-right:20px;
@@ -51,14 +55,18 @@
 
 #m-statement {
     background: #CFCFCF;
+    background-image: url("../img/mtl.jpg");
+    background-size: cover;
+    background-position: center;
     height:300px;
     overflow:hidden;
 }
 
 #statement-box{
+    
     width:45%;
     background:white;
-    border-left:20px solid #898989;
+    border-left:20px solid #2cb1e5;
     margin:0 auto;
     margin-top:75px;
     padding:20px;
@@ -108,7 +116,6 @@
 }
 
 .img {
-    background:grey;
     width:50%;
     float:left;
     height:500px;
@@ -126,7 +133,7 @@
 }
 
 .serv-desc h4{
-    border-left:6px solid grey;
+    border-left:6px solid #2cb1e5;
     padding-left:5px;
 }
 
