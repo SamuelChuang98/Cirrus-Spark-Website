@@ -1,4 +1,4 @@
-<section id="top">
+<section id="top" style="background-image: url('<?php echo $bg_img; ?>');">
 <div id="verticaltext">
     <h2><?php echo $title?></h2>
 </div>

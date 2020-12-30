@@ -4,6 +4,7 @@ $page_title="About Us |  Cirrus Spark";
 $title="About Us";
 $first_line="Your <strong>SATISFACTION</strong> will always";
 $second_line="be our <strong>#1 PRIORITY</strong>";
+$bg_img="img/bg.jpg";
 
 include("includes/header.php"); 
 include("includes/header-2.php");

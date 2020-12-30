@@ -164,7 +164,8 @@ footer {
     background: #DFDFDF;
     width:100%;
     padding-top:20px;
-
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #center-text {
