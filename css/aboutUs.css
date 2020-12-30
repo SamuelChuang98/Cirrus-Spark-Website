@@ -22,6 +22,7 @@
     float:left;
     margin-top:-5px;
     font-size:20px;
+    text-align: justify;
 }
 
 /* Meet the Duo SECTION */
@@ -98,6 +99,7 @@
 #meetDuo p{
     width:80%;
     margin:auto;
+    text-align: left;
 }
 
 #meetDuo-2{
@@ -144,7 +146,8 @@
 }
 
 .value-item h5{
-    font-size:20px;
-    font-weight:0;
+    font-size:17px;
+    font-weight:600;
     margin-top:0;
+    font-family: 'Nunito', sans-serif;
 }
