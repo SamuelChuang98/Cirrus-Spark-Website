@@ -28,7 +28,7 @@
 
      <div class = "list">
 
-         <div class ="instruction1">
+         <div class ="instruction">
              <div class="number">
                 <h2><strong>1</strong></h2>
              </div>
