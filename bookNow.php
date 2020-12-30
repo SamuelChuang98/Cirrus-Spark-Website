@@ -1,17 +1,17 @@
 <?php
-    $page_title = "Book Now";
+    $page_title="Book Now |  Cirrus Spark";
+    $title="Book Now";
+    $first_line="We would be more than <strong>HAPPY</strong>";
+    $second_line="To work with <strong>YOU!</strong>";
+    $bg_img="img/mtl.jpg";
+    
+    
     include("includes/header.php");
+    include("includes/header-2.php");
 ?>
 
 
-<link rel="stylesheet" type="text/css" href="css/BookNow_Page.css">
-
-<section id="top">
-<div id="verticaltext">
-    <h2>BOOK NOW</h2>
-</div>
-   <span> We would be more than <strong>HAPPY</strong></br>To work with <strong>YOU!</strong></span>
-</section>
+<link rel="stylesheet" type="text/css" href="css/bookNow.css">
 
 <section id="main">
 
@@ -20,16 +20,16 @@
  <section id="getintouch">
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
 
-     <p1>
+     <p>
          Our <strong>step-by-step</strong> estimate process</br>
          is built to deliver the service of</br>
          <strong>YOUR</strong> requirements
-     </p1>
+     </p>
 
      <div class = "list">
 
          <div class ="instruction1">
-             <div class= "number">
+             <div class="number">
                 <h2><strong>1</strong></h2>
              </div>
              <div class="text1">

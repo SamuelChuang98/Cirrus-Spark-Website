@@ -174,7 +174,7 @@ footer {
 
 #top{
     overflow: hidden;
-    height: 570px;
+    height: 600px;
     width:100%;
     padding-top:20px;
     background-size: cover;
@@ -198,7 +198,7 @@ footer {
     transform: rotate(90deg);
     float: left;
     margin-left: -200px;
-    margin-top: 270px;
+    margin-top: 280px;
     font-size: 55px;
     text-transform: uppercase;
     display:block;
