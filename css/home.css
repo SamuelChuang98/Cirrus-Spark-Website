@@ -54,6 +54,7 @@
 /* MISSION STATEMENT */
 
 #m-statement {
+    border-top:10px solid #2cb1e5;
     background: #CFCFCF;
     background-image: url("../img/mtl.jpg");
     background-size: cover;

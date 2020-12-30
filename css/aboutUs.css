@@ -4,6 +4,7 @@
     overflow:hidden;
     padding-top:5%;
     padding-bottom:5%;
+    border-top:10px solid #2cb1e5;
 }
 
 #story h3{
@@ -12,21 +13,23 @@
     font-size:60px;
     margin-left:30%;
     margin-top:0;
-    border-left: 15px solid grey;
+    border-left: 15px solid #2cb1e5;
     padding-left:10px;
 }
 
 #story p{
-    width:25%;
+    width:30%;
     float:left;
-    margin-top:30px;
+    margin-top:-5px;
+    font-size:20px;
 }
 
 /* Meet the Duo SECTION */
 
 #meetDuo{
     text-align:center;
-    background:#D8D8D8;
+    background-image: url("../img/building.jpg");
+    background-size: cover;
     padding-top:50px;
     padding-bottom:50px;
     overflow:hidden;
@@ -46,10 +49,29 @@
 }
 
 .proPic {
-    width:30%;
+    width:200px;
+    height:200px;
+    margin:0 auto;
     border-radius:50%;
-    border:7px solid grey;
+    border:7px solid #2cb1e5;
 }
+
+#Sam .proPic {
+   background:url("../img/samuel.jpg");
+   background-size:contain;
+   transition: 0.3s;
+}
+
+#Amine .proPic {
+    background:url("../img/amine.jpg");
+    background-size:contain;
+    transition: 0.3s;
+ }
+
+#Sam .proPic:hover, #Amine .proPic:hover{
+    background:url("../img/linkedin.png");
+    background-size:contain;
+ }
 
 .meet-info{
     background:white;
@@ -58,6 +80,8 @@
     padding:10px;
     padding-bottom:30px;
     margin-top:20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius:2px;
 }
 
 .meet-info h4{
@@ -94,7 +118,7 @@
     font-size:60px;
     margin-left:3%;
     margin-top:0;
-    border-left: 15px solid grey;
+    border-left: 15px solid #2cb1e5;
     padding-left:10px;
 }
 

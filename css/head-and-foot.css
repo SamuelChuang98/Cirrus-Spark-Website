@@ -1,5 +1,19 @@
+/********** GENERAL CSS **********/
 body{
     margin:0;
+}
+
+h1,h2,h3,h4,h5 {
+    font-family: 'Heebo', sans-serif;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+strong {
+    font-family: 'Nunito', sans-serif;
+    font-weight:900;
 }
 
 
@@ -161,7 +175,6 @@ footer {
 #top{
     overflow: hidden;
     height: 570px;
-    background: #DFDFDF;
     width:100%;
     padding-top:20px;
     background-size: cover;
@@ -183,8 +196,8 @@ footer {
     overflow: hidden;
     transform: rotate(90deg);
     float: left;
-    margin-left: -180px;
-    margin-top: 280px;
+    margin-left: -200px;
+    margin-top: 270px;
     font-size: 55px;
     text-transform: uppercase;
     display:block;
@@ -196,4 +209,5 @@ footer {
     color:white;
     margin-top: 0px !important;
     margin-bottom: 0px !important;
+    font-family: 'Archivo Black', sans-serif;
 }
