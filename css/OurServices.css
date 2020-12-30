@@ -130,6 +130,7 @@
 .additional_service{
     overflow: hidden;
     width: 65%;
+    height: 50%;
     margin: 0 auto;
     margin-top: 10%;
     background-color: #BCBCBC;
@@ -137,16 +138,16 @@
 
 .additional_service h4{
     overflow: hidden;
-    padding-top: 5%;
-    margin-left: 20%;
+    margin-top: -11%;
+    margin-left: 25%;
     font-size: 24px;
 
 }
 
 .additional_service p{
     overflow: hidden;
-    padding-top: -35%;
-    margin-left: 60%;
+    margin-top: -8.5%;
+    margin-left: 55%;
     font-size: 18px;
 
 }
@@ -155,7 +156,9 @@
     overflow: hidden;
     width: 200px;
     height: 200px;
-    background-color: red;
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color: #F4F4F4;
     border-radius: 50%;
     
 }
