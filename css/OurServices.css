@@ -1,0 +1,161 @@
+.Presentation_text{
+    height: 869px;
+}
+
+.left_Presentation_text{
+    overflow: hidden;
+    width: 45%;
+    height: 869px;
+    background-color: #868686;
+    color: white;
+   
+}
+
+.left_Presentation_text h3{
+    overflow: hidden;
+    margin-left: 18.5%;
+    margin-top: 30%;
+    border-left: white solid 15px;
+    font-size: 48px;
+    padding-left: 10px;
+
+}
+
+.left_Presentation_text p{
+    overflow: hidden;
+    margin-top: 5%;
+    margin-left: 20%;
+    font-size: 18px;
+
+
+}
+
+.left_Presentation_text input{
+    margin-top: 5%;
+    margin-left: 32%;
+    width: 20%;
+    height: 42px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.right_Presentation_text{
+    overflow: hidden;
+    width: 55%;
+    margin-left: 45%;
+    height: 869px;
+    margin-top: -45.7%;
+}
+
+.top_left{
+    overflow: hidden;
+    width: 50%;
+    height: 54%;
+    background-color: #D4D4D4;
+    text-align: center;
+}
+.top_left div{
+    overflow: hidden;
+    width: 30%;
+    height: 30%;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+
+.top_right{
+    overflow: hidden;
+    width: 50%;
+    height: 50%;
+    margin-left: 50%;
+    margin-top: -45%;
+    background-color: #EDEDED;
+    text-align: center;
+}
+
+.top_right div{
+    overflow: hidden;
+    width: 30%;
+    height: 30%;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+
+.bottom_left{
+    overflow: hidden;
+    width: 50%;
+    height: 54%;
+    background-color: #EDEDED;
+    text-align: center;
+}
+
+.bottom_left div{
+    overflow: hidden;
+    width: 30%;
+    height: 30%;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+
+.bottom_right{
+    overflow: hidden;
+    width: 50%;
+    height: 54%;
+    margin-left: 50%;
+    margin-top: -44.9%;
+    background-color: #D4D4D4;
+    text-align: center;
+}
+
+.bottom_right div{
+    overflow: hidden;
+    width: 30%;
+    height: 30%;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+
+.in_between{
+    overflow: hidden;
+    height: 500px;
+}
+
+.additional_service{
+    overflow: hidden;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: #BCBCBC;
+}
+
+.additional_service h4{
+    overflow: hidden;
+    padding-top: 5%;
+    margin-left: 20%;
+    font-size: 24px;
+
+}
+
+.additional_service p{
+    overflow: hidden;
+    padding-top: -35%;
+    margin-left: 60%;
+    font-size: 18px;
+
+}
+
+.additional_service div{
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    
+}
