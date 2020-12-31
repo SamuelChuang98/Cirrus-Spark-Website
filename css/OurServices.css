@@ -4,6 +4,7 @@
 
 .left_Presentation_text{
     overflow: hidden;
+    float: left;
     width: 45%;
     height: 869px;
     background-color: #868686;
@@ -26,8 +27,6 @@
     margin-top: 5%;
     margin-left: 20%;
     font-size: 18px;
-
-
 }
 
 .left_Presentation_text input{
@@ -41,78 +40,24 @@
 
 .right_Presentation_text{
     overflow: hidden;
+    float: left;
     width: 55%;
-    margin-left: 45%;
     height: 869px;
-    margin-top: -45.7%;
+    
 }
 
-.top_left{
+.pres_square{
     overflow: hidden;
-    width: 50%;
-    height: 54%;
-    background-color: #D4D4D4;
-    text-align: center;
-}
-.top_left div{
-    overflow: hidden;
-    width: 30%;
-    height: 30%;
-    background-color: #C4C4C4;
-    border-radius: 50%;
-    margin-left: 36%;
-    margin-top: 10%;
-}
-
-.top_right{
-    overflow: hidden;
+    float: left;
     width: 50%;
     height: 50%;
-    margin-left: 50%;
-    margin-top: -45%;
-    background-color: #EDEDED;
-    text-align: center;
-}
-
-.top_right div{
-    overflow: hidden;
-    width: 30%;
-    height: 30%;
-    background-color: #C4C4C4;
-    border-radius: 50%;
-    margin-left: 36%;
-    margin-top: 10%;
-}
-
-.bottom_left{
-    overflow: hidden;
-    width: 50%;
-    height: 54%;
-    background-color: #EDEDED;
-    text-align: center;
-}
-
-.bottom_left div{
-    overflow: hidden;
-    width: 30%;
-    height: 30%;
-    background-color: #C4C4C4;
-    border-radius: 50%;
-    margin-left: 36%;
-    margin-top: 10%;
-}
-
-.bottom_right{
-    overflow: hidden;
-    width: 50%;
-    height: 54%;
-    margin-left: 50%;
-    margin-top: -44.9%;
     background-color: #D4D4D4;
     text-align: center;
 }
-
-.bottom_right div{
+.graybg{
+    background-color: #EDEDED;
+}
+.pres_square div{
     overflow: hidden;
     width: 30%;
     height: 30%;
@@ -124,7 +69,6 @@
 
 .in_between{
     overflow: hidden;
-    height: 500px;
 }
 
 .additional_service{
@@ -133,31 +77,35 @@
     height: 50%;
     margin: 0 auto;
     margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 2%;
     background-color: #BCBCBC;
 }
 
 .additional_service h4{
     overflow: hidden;
-    margin-top: -11%;
-    margin-left: 25%;
     font-size: 24px;
+    margin-top: 5.5%;
+    margin-left: 5%;
+    float: left;
 
 }
 
 .additional_service p{
     overflow: hidden;
-    margin-top: -8.5%;
-    margin-left: 55%;
+    float: left;
     font-size: 18px;
+    margin-top: 5.5%;
+    margin-left: 15%;
 
 }
 
 .additional_service div{
     overflow: hidden;
+    float: left;
+    margin-left: 5%;
     width: 200px;
     height: 200px;
-    margin-top: 2%;
-    margin-left: 5%;
     background-color: #F4F4F4;
     border-radius: 50%;
     

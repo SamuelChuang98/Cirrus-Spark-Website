@@ -24,7 +24,7 @@ include("includes/header-2.php");
         </br><input type="submit" Value="BEGIN PROJECT">
     </section>
     <section class="right_Presentation_text">
-        <div class="top_left">
+        <div class="pres_square">
             <div></div>
             <h4>SEO</h4>
             
@@ -36,7 +36,7 @@ include("includes/header-2.php");
             </p>
         </div>
 
-        <div class="top_right">
+        <div class="pres_square graybg">
             <div></div>
             <h4>CLEAN DESIGN</h4>
             <p>
@@ -47,7 +47,7 @@ include("includes/header-2.php");
             </p>
         </div>
 
-        <div class="bottom_left">
+        <div class="pres_square graybg">
             <div></div>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
@@ -58,7 +58,7 @@ include("includes/header-2.php");
             </p>
         </div>
 
-        <div class="bottom_right">
+        <div class="pres_square">
             <div></div>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
@@ -83,6 +83,147 @@ include("includes/header-2.php");
     </section>
 </section>
 
+<section class= "Presentation_text">
+    <section class="right_Presentation_text">
+        <div class="pres_square">
+            <div></div>
+            <h4>CLOUD STORAGE</h4>
+            
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square graybg">
+            <div></div>
+            <h4>MEMORY</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square graybg">
+            <div></div>
+            <h4>EASY TO USE</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square">
+            <div></div>
+            <h4>dATA BACKUP</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+    </section>
+    <section class="left_Presentation_text">
+        <h3>SERVER</br>INSTALLATION</h3>
+        <p>We believe in bringing more user attention with good</br>
+        branding. This is why we spend extra time with the</br>
+        clients to discuss and plan out all the clear details of</br>
+        their business to finally create a fully developped</br> 
+        website that would reflect their brand.</p>
+
+        </br><input type="submit" Value="BEGIN PROJECT">
+    </section>
+</section>
+
+<section class="in_between">
+    <section class="additional_service">
+            <div></div>
+            <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM<strong></h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
+            elit. In consequat enim finibus felis lobortis aliquet.</br>
+            Aenean gravida gravida metus sed dictum.</p>
+            
+    </section>
+</section>
+
+<section class= "Presentation_text">
+    <section class="left_Presentation_text">
+        <h3>SOCIAL MEDIA</br>MARKETING</h3>
+        <p>We believe in bringing more user attention with good</br>
+        branding. This is why we spend extra time with the</br>
+        clients to discuss and plan out all the clear details of</br>
+        their business to finally create a fully developped</br> 
+        website that would reflect their brand.</p>
+
+        </br><input type="submit" Value="BEGIN PROJECT">
+    </section>
+    <section class="right_Presentation_text">
+        <div class="pres_square">
+            <div></div>
+            <h4>BRANDING</h4>
+            
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square graybg">
+            <div></div>
+            <h4>TARGET AUDIENCE</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square graybg">
+            <div></div>
+            <h4>ANALYTICS</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+        <div class="pres_square">
+            <div></div>
+            <h4>EFFECTIVE POSTS</h4>
+            <p>
+            Lorem ipsum dolor sit amet,</br>
+            consectetur  adipiscing elit.</br>
+            In consequat enim finibus</br>
+            felis lobortis aliquet.
+            </p>
+        </div>
+
+    </section>
+</section>
+
+<section class="in_between">
+    <section class="additional_service">
+            <div></div>
+            <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT<strong></h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
+            elit. In consequat enim finibus felis lobortis aliquet.</br>
+            Aenean gravida gravida metus sed dictum.</p>
+            
+    </section>
+</section>
 
 <?php 
 
