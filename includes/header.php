@@ -12,15 +12,28 @@
         <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;900&display=swap" rel="stylesheet">
+
+
+
+        <!--- CSS for animation --->
+        <!--<link rel="stylesheet" href="dist/aos.css" />-->
+
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+        <!----- JS for animation ----->
+       <!--<script src="dist/aos.js"></script>-->
+
+      
     </head>
     
-    <body>
+    <body onload="init()">
     <nav>
         <ul>
             <li><a href="aboutUs.php">ABOUT US</a></li>
             <li><a href="ourservices.php">OUR SERVICES</a></li>
             <li><a href="index.php"><img src="img/logo.png" alt="logo" id="logo"></a></li>
             <li><a href="portfolio.php">OUR WORK</a></li>
-            <li><a href="BookNow_Page.php">BOOK NOW</a></li>        
+            <li><a href="bookNow.php">BOOK NOW</a></li>        
         </ul>
     </nav>

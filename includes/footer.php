@@ -21,5 +21,12 @@
         </ul>
     </div>
 </footer>
+
+    <script>   
+        AOS.init({
+            easing: 'ease-in-out-sine'
+        });
+    </script>
+
 </body>
 </html>

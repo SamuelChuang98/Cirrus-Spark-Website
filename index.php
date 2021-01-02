@@ -21,7 +21,7 @@
         
     </section>
     <section id="m-statement">
-        <div id="statement-box">
+        <div id="statement-box" data-aos="fade-up">
             <h2>MISSION STATEMENT</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis imperdiet efficitur. 
                 Nam porta urna nisl. Donec feugiat nisi ornare, consectetur neque eget, accumsan tellus. 
@@ -32,8 +32,8 @@
     <section id="ourServices">
         <h2>OUR SERVICES</h2>
         <div id="web-sect">
-            <img src="img/webDesign.jpg" class="img">
-            <div class="serv-desc">
+            <img src="img/webDesign.jpg" class="img" data-aos="fade-right">
+            <div class="serv-desc" data-aos="fade-left">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
@@ -42,8 +42,8 @@
             </div>
         </div>
         <div id="serv-sect">
-        <img src="img/server.jpg" class="img">
-            <div class="serv-desc">
+        <img src="img/server.jpg" class="img" data-aos="fade-left">
+            <div class="serv-desc" data-aos="fade-right">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
@@ -53,8 +53,8 @@
             
         </div>
         <div id="media-sect">
-        <img src="img/smedia.jpg" class="img">
-            <div class="serv-desc">
+        <img src="img/smedia.jpg" class="img" data-aos="fade-right">
+            <div class="serv-desc" data-aos="fade-left">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
