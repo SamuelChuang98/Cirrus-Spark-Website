@@ -15,9 +15,9 @@
 
 <section id="main">
 
-<div id ="booknowlogo"><img src="img/logo.png" alt="Cirrus Spark logo"></div>
+<div id ="booknowlogo"><img src="img/logo.png" alt="Cirrus Spark logo" data-aos="zoom-in"></div>
 
- <section id="getintouch">
+ <section id="getintouch" data-aos="fade-down-right">
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
 
      <p>
@@ -28,7 +28,7 @@
 
      <div class = "list">
 
-         <div class ="instruction">
+         <div class ="instruction" data-aos="fade-down-right">
              <div class="number">
                 <h2><strong>1</strong></h2>
              </div>
@@ -38,7 +38,7 @@
              </div>
          </div>
 
-         <div class="instruction">
+         <div class="instruction" data-aos="fade-down-right">
          <div class= "number">
                 <h2><strong>2</strong></h2>
              </div>
@@ -48,7 +48,7 @@
              </div>
 
          </div>
-         <div class="instruction">
+         <div class="instruction" data-aos="fade-down-right">
          <div class= "number">
                 <h2><strong>3</strong></h2>
              </div>
@@ -62,7 +62,7 @@
  </section>
 
 
- <div class ="quote">
+ <div class ="quote" data-aos="flip-right">
     <h4>FREE QUOTE</h4>
     <p> Request today and recieve a <strong>15% discount!</strong></p>
 
