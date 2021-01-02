@@ -15,12 +15,12 @@
 
 <section id="main">
 
-<div id ="booknowlogo"><img src="img/logo.png" alt="Cirrus Spark logo" data-aos="zoom-in"></div>
+<div id ="booknowlogo"><img src="img/logo.png" alt="Cirrus Spark logo"></div>
 
- <section id="getintouch" data-aos="fade-down-right">
+ <section id="getintouch">
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
 
-     <p>
+     <p data-aos="fade-down-right"> 
          Our <strong>step-by-step</strong> estimate process</br>
          is built to deliver the service of</br>
          <strong>YOUR</strong> requirements
@@ -62,7 +62,7 @@
  </section>
 
 
- <div class ="quote" data-aos="flip-right">
+ <div class ="quote">
     <h4>FREE QUOTE</h4>
     <p> Request today and recieve a <strong>15% discount!</strong></p>
 
@@ -77,7 +77,7 @@
 
            <select name="Service" id="Service">
            <option value="Service">Service</option>
-             <option value="Web Desgin & Develoopement">Web Desgin & Develoopement</option>
+             <option value="Web Desgin & Develoopement">Web Design & Developement</option>
              <option value="Server Installation & Set up">Server Installation & Set up</option>
              <option value="Digital Marketing">Digital Marketing</option>
            </select></br>
