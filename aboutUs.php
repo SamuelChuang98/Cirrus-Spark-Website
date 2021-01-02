@@ -14,8 +14,8 @@ include("includes/header-2.php");
 <link rel="stylesheet" type="text/css" href="css/aboutUs.css">
 
     <section id="story"> 
-        <h3>OUR </br>STORY</h3> 
-        <p>One day, two young aspiring entrepreneurs came together with a genius idea to build a business for the good of others. 
+        <h3 data-aos="fade-right">OUR </br>STORY</h3> 
+        <p data-aos="fade-up">One day, two young aspiring entrepreneurs came together with a genius idea to build a business for the good of others. 
         Cirrus Spark is a tech and marketing agency dedicated to bringing small and medium business to light with new age technology and resources. 
         We believe that anything is possible as long as the business is set with a great marketing material. In the world of web and media, do you have 
         all you need to increase your audience? Get a quote with us today to see how much more we can improve it!</p>
@@ -25,9 +25,9 @@ include("includes/header-2.php");
         <h3>MEET THE DUO</h3>
         <div id="meetDuo-2">
             <div id="Amine">
-                <div class="proPic" onclick="window.open('https://www.linkedin.com/in/amine-kabene-a8a844155/', '_blank');" style="cursor: pointer;">
+                <div class="proPic" onclick="window.open('https://www.linkedin.com/in/amine-kabene-a8a844155/', '_blank');" style="cursor: pointer;" data-aos="flip-left">
                 </div>
-                <div class="meet-info">
+                <div class="meet-info" data-aos="zoom-in-up">
                     <h4>AMINE KABENE</h4>
                     <h5>CO-OWNER</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -41,9 +41,9 @@ include("includes/header-2.php");
             </div>
 
             <div id="Sam">
-                    <div class="proPic" onclick="window.open('https://www.linkedin.com/in/samuel-chuang-53723915a/', '_blank');" style="cursor: pointer;">
+                    <div class="proPic" onclick="window.open('https://www.linkedin.com/in/samuel-chuang-53723915a/', '_blank');" style="cursor: pointer;" data-aos="flip-right">
                     </div>
-                <div class="meet-info">
+                <div class="meet-info" data-aos="zoom-in-up">
                     <h4>SAMUEL CHUANG</h4>
                     <h5>CO-OWNER</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -58,17 +58,21 @@ include("includes/header-2.php");
     </section>
 
     <section id="ourValues">
-        <h3>OUR VALUES</h3>
+        <h3 data-aos="fade-right">OUR VALUES</h3>
 
         <div class="values-row">
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="333">
                 <h4>Risk Takers</h4>
                 <h5>"Life is either a daring adventure or nothing at all" </br> -Helen Keller</h5>
                 <p>Profits and perks belong to those who take risks, not the settlers.
                 Yes you heard it, no reward comes without risk. This is why at Cirrus spark we encourage 
                 you to take a leap of faith in yourself and your team in order to grow the business.</p>
             </div>
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="666">
                 <h4>Innovators</h4>
                 <h5>Subheading</h5>
                 <p>Innovation is our industry and it is what we do full time.
@@ -76,7 +80,9 @@ include("includes/header-2.php");
                 Innovation is what keeps our services relevant and competitive. 
                 </p>
             </div>
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="999">
                 <h4>Competitive</h4>
                 <h5>Subheading</h5>
                 <p>Competition is a driver for innovation and progress.We embrace competition,
@@ -86,14 +92,18 @@ include("includes/header-2.php");
         </div>
 
         <div class="values-row">
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="333">
                 <h4>Quality over quantity</h4>
                 <h5>Subheading</h5>
                 <p>We value our work and we make sure we deliver on our promises.
                 This is why we prioritise quality. Every project we complete is a project that we and our customers can be proud of.
                 </p>
             </div>
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="666">
                 <h4>Commitment </h4>
                 <h5>Subheading</h5>
                 <p>Our mission is to bring the tools of the big players to you. 
@@ -102,7 +112,9 @@ include("includes/header-2.php");
                 and small with the tools they need so they can focus on growth. 
                 </p>
             </div>
-            <div class="value-item">
+            <div class="value-item" data-aos="flip-left"
+                                    data-aos-easing="ease-out-cubic"
+                                    data-aos-duration="999">
                 <h4>Value 1</h4>
                 <h5>Subheading</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -8,9 +8,11 @@
 <section class="wrapper">
     <section id="main-top">
         <div id="info-top">
-            <h2> SPARK </br> A NEW START</h2>
+            <h2 data-aos="zoom-out"> SPARK </br> A NEW START</h2>
 
-            <div id="withUs">
+            <div id="withUs" data-aos="fade-right"
+                            data-aos-offset="300"
+                            data-aos-easing="ease-in-sine">
                 <img src="img/logo.png">
                 <p>with</p>
             </div>
