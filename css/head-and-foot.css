@@ -239,8 +239,6 @@ footer {
         margin-top:5px;
     }
 
-  
-
     .fa, .fa-bars{
         display:inherit;
     }
@@ -254,6 +252,7 @@ footer {
     /* Hide the links inside the navigation menu (except for logo/home) */
     .topnav #myLinks {
         display: none;
+        border-top:5px solid #2cb1e5;
     }
     
     /* Style navigation menu links */
@@ -266,8 +265,6 @@ footer {
         display: block;
     }
 
- 
-    
     /* Style the hamburger menu */
     .topnav a.icon {
         display: block;
@@ -279,13 +276,13 @@ footer {
     }
 
     .topnav a.icon:hover {
-        background-color: black;
+        background-color: #2cb1e5;
         color: white;
     }
     
     /* Add a grey background color on mouse-over */
     #myLinks a:hover {
-        background-color: black;
+        background-color: #2cb1e5;
         color: white;
     }
 
