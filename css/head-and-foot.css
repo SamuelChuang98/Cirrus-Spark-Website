@@ -266,24 +266,29 @@ footer {
         display: block;
     }
 
-    a #logo:hover {
-        background:white;
-    }
+ 
     
     /* Style the hamburger menu */
     .topnav a.icon {
         display: block;
         position: absolute;
         right: 15px;
-        top: 10px;
+        top: 20px;
+        padding-top:10px;
+        padding-bottom:10px;
     }
-    
-    /* Add a grey background color on mouse-over */
-    .topnav a:hover {
+
+    .topnav a.icon:hover {
         background-color: black;
         color: white;
     }
     
+    /* Add a grey background color on mouse-over */
+    #myLinks a:hover {
+        background-color: black;
+        color: white;
+    }
+
     /* Style the active link (or home/logo) */
     .active {
         color: white;
