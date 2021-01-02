@@ -19,7 +19,7 @@
         margin-top: 3%;
         width:50%;
         float: left;
-        padding-bottom: 15%;
+        padding-bottom: 17%;
     }
     
     #touch{
@@ -81,19 +81,19 @@
 
     .quote h4{
         overflow: hidden;
-        font-size: 36px;
+        font-size: 40px;
         text-align: center;
     }
 
-    .quote span{
+    .quote p{
         overflow: hidden;
         padding-left: 6.5%;
-        font-size: 28px;
+        font-size: 25px;
     }
     
     .fo input{
-        margin-top: 15%;
         overflow: hidden;
+        margin-top: 14%;
         width: 75%;
         height: 55px;
         border-radius: 7px;
@@ -104,7 +104,7 @@
 
     #comments{
         overflow: hidden;
-        margin-top: 15%;
+        margin-top: 14%;
         width: 75%;
         height: 185px;
         border-radius: 7px;
@@ -121,7 +121,7 @@
 
     .fo select{
         overflow: hidden;
-        margin-top: 15%;
+        margin-top: 14%;
         width: 75%;
         height: 55px;
         margin-left: 13%;

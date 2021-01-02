@@ -64,7 +64,7 @@
 
  <div class ="quote">
     <h4>FREE QUOTE</h4>
-    <span> Request today and recieve a <strong>15% discount!</strong></span>
+    <p> Request today and recieve a <strong>15% discount!</strong></p>
 
 
      <form class= "fo">
