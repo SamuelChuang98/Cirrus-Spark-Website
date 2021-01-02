@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="css/head-and-foot.css">
 
 <section id="beginProject">
-    <h2>LET'S WORK <span id="together">TOGETHER</span></h2>
+    <h2 data-aos="flip-left">LET'S WORK <span id="together">TOGETHER</span></h2>
     <p>We would love to work with you!</p>
-    <button>BEGIN PROJECT</button>
+    <button data-aos="zoom-in">BEGIN PROJECT</button>
 </section>
