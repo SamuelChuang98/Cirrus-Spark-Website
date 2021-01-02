@@ -3,7 +3,7 @@
     $title="Book Now";
     $first_line="We would be more than <strong>HAPPY</strong>";
     $second_line="To work with <strong>YOU!</strong>";
-    $bg_img="img/mtl.jpg";
+    $bg_img="img/lap2.jpg";
     
     
     include("includes/header.php");
@@ -32,30 +32,29 @@
              <div class="number">
                 <h2><strong>1</strong></h2>
              </div>
-             <div class="text1">
-                 <strong id ="fill">FILL IN THE FORM</strong></br><span>You will be contacted within the</br>
-                 <strong>next 1-2 business days</strong></span>
+             <div class="text">
+                 <p><strong class= "steps">FILL IN THE FORM</strong></br><span>You will be contacted within the</br>
+                 <strong>next 1-2 business days</strong></span></p>
              </div>
          </div>
 
-         <div class="instruction2">
+         <div class="instruction">
          <div class= "number">
                 <h2><strong>2</strong></h2>
              </div>
-             <div class="text1">
-                 <strong id ="fill">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements</br>
-                 and we come up <strong>with our solution</strong></span>
+             <div class="text">
+                 <p><strong class= "steps">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements</br>
+                 and we come up <strong>with our solution</strong></span></p>
              </div>
 
          </div>
-
-         <div class="instruction3">
+         <div class="instruction">
          <div class= "number">
                 <h2><strong>3</strong></h2>
              </div>
-             <div class="text1">
-                 <strong id ="fill">SIT BACK AND RELAX</strong></br><span><strong>Regular review meetings</strong> will occur</br>
-                 to make sure we are on the right path</span>
+             <div class="text">
+                 <p><strong class= "steps">SIT BACK AND RELAX</strong></br><span><strong>Regular review meetings</strong> will occur</br>
+                 to make sure we are on the right path</span></p>
              </div>
 
          </div>
@@ -88,7 +87,6 @@
 
      </form>
 </div>
-
 </section>
 
 <?php
