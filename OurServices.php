@@ -1,18 +1,18 @@
 <?php
-
-$page_title="Our Services";
-$title="Services";
-$first_line="We take care of the <strong>FANCY</strong> stuff";
-$second_line="so that <strong>YOU</strong> don't have to.";
-
-include("includes/header.php"); 
-include("includes/header-2.php");
-
+    $page_title="Our Services |  Cirrus Spark";
+    $title="Services";
+    $first_line="WE TAKE CARE OF THE <strong>FANCY</strong> STUFF";
+    $second_line="SO THAT <strong>YOU</strong> DON'T HAVE TO.";
+    $bg_img="img/fancydesk.jpg";
+    
+    
+    include("includes/header.php");
+    include("includes/header-2.php");
 ?>
 
 <link rel="stylesheet" type="text/css" href="css/OurServices.css">
 
-<section class= "Presentation_text">
+<section class= "Presentation_text"  data-aos="fade-right">
     <section class="left_Presentation_text">
         <h3>PROFESSIONAL</br>WEBSITES</h3>
         <p>We believe in bringing more user attention with good</br>
@@ -73,7 +73,7 @@ include("includes/header-2.php");
 </section>
 
 <section class="in_between">
-    <section class="additional_service">
+    <section class="additional_service" data-aos="zoom-in-down">
             <div></div>
             <h4>Additional Service</br><strong>WEB HOSTING<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
@@ -83,7 +83,7 @@ include("includes/header-2.php");
     </section>
 </section>
 
-<section class= "Presentation_text">
+<section class= "Presentation_text"  data-aos="fade-left">
     <section class="right_Presentation_text">
         <div class="pres_square">
             <div></div>
@@ -121,7 +121,7 @@ include("includes/header-2.php");
 
         <div class="pres_square">
             <div></div>
-            <h4>dATA BACKUP</h4>
+            <h4>DATA BACKUP</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
             consectetur  adipiscing elit.</br>
@@ -144,7 +144,7 @@ include("includes/header-2.php");
 </section>
 
 <section class="in_between">
-    <section class="additional_service">
+    <section class="additional_service" data-aos="zoom-in-down">
             <div></div>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
@@ -154,7 +154,7 @@ include("includes/header-2.php");
     </section>
 </section>
 
-<section class= "Presentation_text">
+<section class= "Presentation_text"  data-aos="fade-right">
     <section class="left_Presentation_text">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
         <p>We believe in bringing more user attention with good</br>
@@ -215,7 +215,7 @@ include("includes/header-2.php");
 </section>
 
 <section class="in_between">
-    <section class="additional_service">
+    <section class="additional_service" data-aos="zoom-in-down">
             <div></div>
             <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>

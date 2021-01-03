@@ -7,7 +7,7 @@
     float: left;
     width: 45%;
     height: 869px;
-    background-color: #868686;
+    background-color: #2cb1e5;
     color: white;
    
 }
@@ -51,24 +51,24 @@
     float: left;
     width: 50%;
     height: 50%;
-    background-color: #D4D4D4;
+    background-color: #19aae4;
     text-align: center;
 }
 .graybg{
-    background-color: #EDEDED;
+    background-color: #41b6e4;
 }
 .pres_square div{
     overflow: hidden;
     width: 30%;
     height: 30%;
-    background-color: #C4C4C4;
+    background-color: white;
     border-radius: 50%;
     margin-left: 36%;
     margin-top: 10%;
 }
 
 .in_between{
-    overflow: hidden;
+   
 }
 
 .additional_service{
@@ -79,7 +79,7 @@
     margin-top: 10%;
     margin-bottom: 10%;
     padding: 2%;
-    background-color: #BCBCBC;
+    background-color: #2cb1e5;
 }
 
 .additional_service h4{
