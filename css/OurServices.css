@@ -5,8 +5,7 @@
 .left_Presentation_text{
     overflow: hidden;
     float: left;
-    width: 44.45%;
-    border: solid black 5px;
+    width: 45%;
     height: 869px;
     background-color: #2cb1e5;
     color: white;
@@ -42,7 +41,7 @@
     overflow: hidden;
     float: left;
     width: 55%;
-    height: 879px;
+    height: 869px;
     
 }
 
@@ -86,7 +85,6 @@
     margin-bottom: 10%;
     padding: 2%;
     background-color:#189AB4;
-    border: solid black 5px;
 }
 
 .additional_service h4{
