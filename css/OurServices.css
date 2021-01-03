@@ -1,15 +1,15 @@
 .Presentation_text{
-    height: 869px;
+   overflow: hidden;
 }
 
 .left_Presentation_text{
     overflow: hidden;
     float: left;
-    width: 45%;
+    width: 44.45%;
+    border: solid black 5px;
     height: 869px;
     background-color: #2cb1e5;
     color: white;
-   
 }
 
 .left_Presentation_text h3{
@@ -19,7 +19,6 @@
     border-left: white solid 15px;
     font-size: 48px;
     padding-left: 10px;
-
 }
 
 .left_Presentation_text p{
@@ -35,14 +34,15 @@
     width: 20%;
     height: 42px;
     font-weight: bold;
-    background-color: white;
+    color: white;
+    background-color: black;
 }
 
 .right_Presentation_text{
     overflow: hidden;
     float: left;
     width: 55%;
-    height: 869px;
+    height: 879px;
     
 }
 
@@ -51,12 +51,22 @@
     float: left;
     width: 50%;
     height: 50%;
-    background-color: #19aae4;
+    background-color: #8AC7DB;
     text-align: center;
 }
 .graybg{
-    background-color: #41b6e4;
+    background-color: #D4F1F4;
 }
+.pres_square h4{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.pres_square p{
+    font-weight: normal;
+    font-size: 18px;
+}
+
 .pres_square div{
     overflow: hidden;
     width: 30%;
@@ -67,10 +77,6 @@
     margin-top: 10%;
 }
 
-.in_between{
-   
-}
-
 .additional_service{
     overflow: hidden;
     width: 65%;
@@ -79,7 +85,8 @@
     margin-top: 10%;
     margin-bottom: 10%;
     padding: 2%;
-    background-color: #2cb1e5;
+    background-color:#189AB4;
+    border: solid black 5px;
 }
 
 .additional_service h4{
@@ -94,6 +101,7 @@
 .additional_service p{
     overflow: hidden;
     float: left;
+    font-weight: normal;
     font-size: 18px;
     margin-top: 5.5%;
     margin-left: 15%;

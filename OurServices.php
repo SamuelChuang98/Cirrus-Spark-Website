@@ -12,8 +12,8 @@
 
 <link rel="stylesheet" type="text/css" href="css/OurServices.css">
 
-<section class= "Presentation_text"  data-aos="fade-right">
-    <section class="left_Presentation_text">
+<section class= "Presentation_text">
+    <section class="left_Presentation_text" data-aos="flip-left">
         <h3>PROFESSIONAL</br>WEBSITES</h3>
         <p>We believe in bringing more user attention with good</br>
         branding. This is why we spend extra time with the</br>
@@ -24,7 +24,7 @@
         </br><input type="submit" Value="BEGIN PROJECT">
     </section>
     <section class="right_Presentation_text">
-        <div class="pres_square">
+        <div class="pres_square" data-aos="fade-right">
             <div></div>
             <h4>SEO</h4>
             
@@ -36,7 +36,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg" data-aos="fade-left">
             <div></div>
             <h4>CLEAN DESIGN</h4>
             <p>
@@ -47,7 +47,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg" data-aos="fade-left">
             <div></div>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
@@ -58,7 +58,7 @@
             </p>
         </div>
 
-        <div class="pres_square">
+        <div class="pres_square" data-aos="fade-right">
             <div></div>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
@@ -83,9 +83,9 @@
     </section>
 </section>
 
-<section class= "Presentation_text"  data-aos="fade-left">
+<section class= "Presentation_text"  >
     <section class="right_Presentation_text">
-        <div class="pres_square">
+        <div class="pres_square" data-aos="fade-left">
             <div></div>
             <h4>CLOUD STORAGE</h4>
             
@@ -97,7 +97,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg" data-aos="fade-right">
             <div></div>
             <h4>MEMORY</h4>
             <p>
@@ -108,7 +108,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg"  data-aos="fade-right">
             <div></div>
             <h4>EASY TO USE</h4>
             <p>
@@ -119,7 +119,7 @@
             </p>
         </div>
 
-        <div class="pres_square">
+        <div class="pres_square"  data-aos="fade-left">
             <div></div>
             <h4>DATA BACKUP</h4>
             <p>
@@ -131,7 +131,7 @@
         </div>
 
     </section>
-    <section class="left_Presentation_text">
+    <section class="left_Presentation_text" data-aos="flip-right">
         <h3>SERVER</br>INSTALLATION</h3>
         <p>We believe in bringing more user attention with good</br>
         branding. This is why we spend extra time with the</br>
@@ -154,8 +154,8 @@
     </section>
 </section>
 
-<section class= "Presentation_text"  data-aos="fade-right">
-    <section class="left_Presentation_text">
+<section class= "Presentation_text">
+    <section class="left_Presentation_text" data-aos="flip-left">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
         <p>We believe in bringing more user attention with good</br>
         branding. This is why we spend extra time with the</br>
@@ -166,7 +166,7 @@
         </br><input type="submit" Value="BEGIN PROJECT">
     </section>
     <section class="right_Presentation_text">
-        <div class="pres_square">
+        <div class="pres_square" data-aos="fade-right">
             <div></div>
             <h4>BRANDING</h4>
             
@@ -178,7 +178,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg" data-aos="fade-left">
             <div></div>
             <h4>TARGET AUDIENCE</h4>
             <p>
@@ -189,7 +189,7 @@
             </p>
         </div>
 
-        <div class="pres_square graybg">
+        <div class="pres_square graybg" data-aos="fade-left">
             <div></div>
             <h4>ANALYTICS</h4>
             <p>
@@ -200,7 +200,7 @@
             </p>
         </div>
 
-        <div class="pres_square">
+        <div class="pres_square" data-aos="fade-right">
             <div></div>
             <h4>EFFECTIVE POSTS</h4>
             <p>
