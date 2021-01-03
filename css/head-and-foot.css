@@ -175,7 +175,7 @@ footer {
 
 #top{
     overflow: hidden;
-    height: 600px;
+    height: 550px;
     width:100%;
     padding-top:20px;
     background-size: cover;
@@ -185,13 +185,14 @@ footer {
 #center-text {
     overflow: hidden;
     width:30%;
-    margin-top: 285px;
+    margin-top: 180px;
     margin-left:35%;
     font-size: 28px;
     text-align: center;
-    color: #000000;
     position:absolute;
     text-transform:uppercase;
+    color:black;
+    font-family: 'Heebo', sans-serif;
     }
 
 #verticaltext{
@@ -199,11 +200,10 @@ footer {
     transform: rotate(90deg);
     float: left;
     margin-left: -200px;
-    margin-top: 280px;
+    margin-top: 210px;
     font-size: 55px;
     text-transform: uppercase;
     display:block;
-    position:absolute;
 }
 
 #verticaltext h2{
@@ -290,8 +290,33 @@ footer {
     .active {
         color: white;
     }
-}
+
+    #center-text {
+        width:50%;
+        margin-top:140px;
+        margin-left:25%;
+    }
+
+    footer{
+        overflow:hidden;
+        height:auto;
+    }
+
+    #leftFoot{
+        display:none;
+    }
+
+    #connectFoot, #contactFoot{
+        width:50%;
+        margin:0;
+    }
+
+}/* END od TABLET*/
 
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
+    #connectFoot, #contactFoot{
+        width:100%;
+        margin-bottom:5%;
+    }
 }

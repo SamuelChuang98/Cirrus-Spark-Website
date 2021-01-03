@@ -16,9 +16,10 @@
                 <img src="img/logo.png">
                 <p>with</p>
             </div>
-
-            <button>CONTACT US</button>
-            <button>OUR SERVICES</button>
+            <div id="cta-btn">
+                <button>CONTACT US</button>
+                <button>OUR SERVICES</button>
+            </div>
         </div>
         
     </section>

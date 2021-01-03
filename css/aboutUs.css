@@ -77,7 +77,7 @@
 .meet-info{
     background:white;
     margin:auto;
-    width:40%;
+    width:45%;
     padding:10px;
     padding-bottom:30px;
     margin-top:20px;
@@ -150,4 +150,80 @@
     font-weight:600;
     margin-top:0;
     font-family: 'Nunito', sans-serif;
+}
+
+/***************************  MEDIA QUERY (MQ) ******************************/
+
+/*MEDIA QUERT for BIGGER DESKTOP*/
+@media screen and (min-width:1200px){
+}
+
+/* MQ for DESKTOP*/
+@media screen and (max-width:1200px){
+    #story h3{
+        margin-left:20%;
+    }
+
+    #story p{
+        width:50%;
+        margin-left:5%;
+    }
+
+    .meet-info {
+        width:70%;
+    }
+
+}
+
+/* MQ for TABLET*/
+@media screen and (max-width:980px){
+    #story h3{
+        width:100%;
+        margin-left:10%;
+    }
+
+    #story p{
+        width:80%;
+        margin:0 auto;
+        float:none;
+    }
+
+    #Amine, #Sam {
+        width:100%;
+    }
+
+    .meet-info{
+        width:60%;
+    }
+
+    #Sam .proPic{
+        margin-top:10%;
+    }
+
+    .values-row {
+        overflow:inline;
+        margin-top:0;
+        margin-bottom:0;
+        padding:0;
+    }
+    .value-item {
+        width:70%;
+        margin:auto;
+        clear:both;
+        float:none;
+        margin-top:10%;
+    }
+
+}/* END od TABLET*/
+
+/* MQ for MOBILE*/
+@media screen and (max-width:480px){
+    .meet-info{
+        width:95%;
+    }
+
+    .value-item{
+        width:100%;
+    }
+
 }

@@ -63,7 +63,6 @@
 }
 
 #statement-box{
-    
     width:45%;
     background:white;
     border-left:20px solid #2cb1e5;
@@ -118,7 +117,6 @@
 .img {
     width:50%;
     float:left;
-    height:500px;
     margin-left:10%;
 }
 
@@ -149,4 +147,77 @@
 
 #media-sect {
     margin-top:150px;
+}
+
+/***************************  MEDIA QUERY (MQ) ******************************/
+
+/*MEDIA QUERT for BIGGER DESKTOP*/
+@media screen and (min-width:1200px){
+}
+
+/* MQ for DESKTOP*/
+@media screen and (max-width:1200px){
+    #m-statement{
+        height:auto;
+        padding-bottom:10%;
+    }
+
+}
+
+/* MQ for TABLET*/
+@media screen and (max-width:980px){
+    
+    #ourServices{
+        padding:5%;
+    }
+
+    .img{
+        width:80%;
+        height:auto;
+        float:none;
+    }
+   
+    .serv-desc{
+       width:80%;
+       margin:0;
+       float:none;
+   }
+
+   #serv-sect .serv-desc {
+    float:left;
+   }
+}/* END of TABLET*/
+
+/* MQ for MOBILE*/
+@media screen and (max-width:480px){
+
+    #main-top{
+        height:auto;
+        padding-bottom:20%;
+    }
+
+    #statement-box{
+        width:75%;
+    }
+
+    #info-top{
+        width:80%;
+        margin:auto;
+    }
+
+    #info-top h2{
+        font-size:35px;
+    }
+
+    #info-top button{
+        
+        float:none;
+        margin-left:10%;
+        width:80%;
+        margin-bottom:5%;
+    }
+
+    #cta-btn{
+        width:100%;
+    }
 }
