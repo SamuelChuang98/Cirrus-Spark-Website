@@ -8,7 +8,7 @@
     <div id="connectFoot">
         <h4>STAY CONNECTED</h4>
         <ul>
-            <li><a href=""><img src="img/socialMedia/fb.svg" alt="Facebook"></a></li>
+            <li><a href="https://www.facebook.com/CirrusSpark/"><img src="img/socialMedia/fb.svg" alt="Facebook"></a></li>
             <li><a href=""><img src="img/socialMedia/tw.svg" alt="Twitter"></a></li>
             <li><a href=""><img src="img/socialMedia/in.svg" alt="Linkedin" id="in-icon"></a></li>
         </ul>

@@ -87,7 +87,6 @@
     <div id="myLinks">
         <a href="aboutUs.php">ABOUT US</a>
         <a href="ourservices.php">OUR SERVICES</a>
-        <a href="portfolio.php">OUR WORK</a>
         <a href="bookNow.php">BOOK NOW</a>
     </div>
     <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
