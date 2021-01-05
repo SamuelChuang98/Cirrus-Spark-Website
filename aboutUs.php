@@ -65,7 +65,7 @@ include("includes/header-2.php");
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="333">
                 <h4>Risk Takers</h4>
-                <h5>"Life is either a daring adventure or nothing at all" </br> -Helen Keller</h5>
+                <h5><i>"Life is either a daring adventure or nothing at all" </i></br> -Helen Keller </h5>
                 <p>Profits and perks belong to those who take risks, not the settlers.
                 Yes you heard it, no reward comes without risk. This is why at Cirrus spark we encourage 
                 you to take a leap of faith in yourself and your team in order to grow the business.</p>
@@ -74,7 +74,7 @@ include("includes/header-2.php");
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="666">
                 <h4>Innovators</h4>
-                <h5>Subheading</h5>
+                <h5><i>“The best way to predict the future is to create it.“ </i></br> -Alan Kay</h5>
                 <p>Innovation is our industry and it is what we do full time.
                 Whether it is implementing new features or developing new services
                 Innovation is what keeps our services relevant and competitive. 
@@ -84,7 +84,7 @@ include("includes/header-2.php");
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="999">
                 <h4>Competitive</h4>
-                <h5>Subheading</h5>
+                <h5><i>“Successful people compete against themselves, not against other people.” </i></br> -J.Adam Snyder</h5>
                 <p>Competition is a driver for innovation and progress.We embrace competition,
                 this idea to surpass yourself repeatedly is thrilling and is the reason why the train never stops.</p>
             </div>
@@ -96,7 +96,7 @@ include("includes/header-2.php");
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="333">
                 <h4>Quality over quantity</h4>
-                <h5>Subheading</h5>
+                <h5><i>"Quality is more important than quantity. One home run is much better than two doubles" </i></br> -Steve Jobs</h5>
                 <p>We value our work and we make sure we deliver on our promises.
                 This is why we prioritise quality. Every project we complete is a project that we and our customers can be proud of.
                 </p>
@@ -105,7 +105,7 @@ include("includes/header-2.php");
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="666">
                 <h4>Commitment </h4>
-                <h5>Subheading</h5>
+                <h5><i>“Commitment leads to action. Action brings your dream closer.”</i></br> -Marica Wieder</h5>
                 <p>Our mission is to bring the tools of the big players to you. 
                 We take care of the fancy stuff so you don't have to. 
                 From client databases to ecommerce functionalities our goal is to equip all businesses big 

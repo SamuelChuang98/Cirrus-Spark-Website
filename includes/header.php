@@ -9,6 +9,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="css/head-and-foot.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
+
+        <!-- FAVICON-->
+        <link rel="icon" type="image/png" href="img/favicon.jpg"/>
+
+        <!-- FONTS -->
         <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;900&display=swap" rel="stylesheet">
@@ -38,12 +43,39 @@
     </head>
     
     <body>
+
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function() {
+            FB.init({
+                xfbml            : true,
+                version          : 'v9.0'
+            });
+            };
+
+            (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <!-- Your Chat Plugin code -->
+        <div class="fb-customerchat"
+            attribution=setup_tool
+            page_id="114273446696350"
+    theme_color="#2cb1e5"
+    logged_in_greeting="Greetings! How may I help you?"
+    logged_out_greeting="Greetings! How may I help you?">
+        </div>
     <nav id="nav-row">
         <ul>
             <li><a href="aboutUs.php">ABOUT US</a></li>
-            <li><a href="ourservices.php">OUR SERVICES</a></li>
+            <li><a href="ourServices.php">OUR SERVICES</a></li>
             <li><a href="index.php"><img src="img/logo.png" alt="logo" id="logo"></a></li>
-            <li><a href="portfolio.php">OUR WORK</a></li>
+            <li><strike>OUR WORK</strike></li>
             <li><a href="bookNow.php">BOOK NOW</a></li>        
         </ul>
     </nav>
