@@ -168,28 +168,52 @@
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
     #getintouch{
-        margin-top: 0%;
+        margin-top: 5%;
+        width: 100%;
+        float: none;
+        padding-bottom: 20%;
     }
 
     #touch{
-        margin-left: 10%;
+        width: 60%;
+        margin: 0 auto;
+        font-size: 28px;
     }
 
     #getintouch p{
-        margin-left: 10%;
+        width: 60%;
+        margin: 0 auto;
+        font-size: 24px;
     }
 
     .instruction{
-        margin-left: 10%;
-        padding-top: 0%;
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 10%;
     }
 
     .number{
-        padding-right: 10%;
+        font-size: 28px;
+    }
+
+    .steps{
+        font-size: 28px;
+    }
+
+    .text{
+        width: 100%;
+        font-size: 24px;
     }
 
     .quote{
-        width: 40%;
+        width: 70%;
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 35%;
+    }
+
+    .quote p{
+        text-align: center;
     }
    
 }/* END of TABLET*/
@@ -197,25 +221,37 @@
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
     #getintouch{
+        margin-top: 5%;
         width: 100%;
         float: none;
         padding-bottom: 20%;
     }
 
     #touch{
-        margin-left: 11%;
+        width: 60%;
+        margin: 0 auto;
+        font-size: 24px;
     }
 
     #getintouch p{
-        margin-left: 11%;
+        width: 60%;
+        margin: 0 auto;
+        font-size: 18px;
     }
 
     .instruction{
-        margin-left: 11%;
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 10%;
     }
 
     .number{
-        padding-right: 10%;
+        padding-right: 5%;
+        font-size: 24px;
+    }
+
+    .steps{
+        font-size: 24px;
     }
 
     .quote{
@@ -223,5 +259,10 @@
         float: none;
         margin: 0 auto;
         margin-bottom: 35%;
+    }
+
+    .text{
+        width: 100%;
+        font-size: 18px;
     }
 }
