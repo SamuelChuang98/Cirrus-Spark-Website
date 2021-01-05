@@ -128,3 +128,32 @@
         border-radius: 7px;
         padding-left: 10px;
     }
+
+    /***************************  MEDIA QUERY (MQ) ******************************/
+
+/*MEDIA QUERT for BIGGER DESKTOP*/
+@media screen and (min-width:1200px){
+}
+
+/* MQ for DESKTOP*/
+@media screen and (max-width:1200px){
+}
+
+/* MQ for TABLET*/
+@media screen and (max-width:980px){
+   
+}/* END of TABLET*/
+
+/* MQ for MOBILE*/
+@media screen and (max-width:480px){
+    #getintouch{
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .quote{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 30%;
+    }
+}
