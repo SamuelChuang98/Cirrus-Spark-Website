@@ -25,7 +25,7 @@
     </section>
     <section class="right_Presentation_text">
         <div class="pres_square" data-aos="fade-right">
-            <div></div>
+            <ion-icon name="search-circle-outline"></ion-icon>
             <h4>SEO</h4>
             
             <p>
@@ -37,7 +37,7 @@
         </div>
 
         <div class="pres_square graybg" data-aos="fade-left">
-            <div></div>
+            <ion-icon name="brush-outline"></ion-icon>
             <h4>CLEAN DESIGN</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -48,7 +48,7 @@
         </div>
 
         <div class="pres_square graybg" data-aos="fade-left">
-            <div></div>
+            <ion-icon name="phone-portrait-outline"></ion-icon>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -59,7 +59,7 @@
         </div>
 
         <div class="pres_square" data-aos="fade-right">
-            <div></div>
+            <ion-icon name="cog-outline"></ion-icon>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -74,7 +74,7 @@
 
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
-            <div></div>
+            <ion-icon name="server-outline"></ion-icon>
             <h4>Additional Service</br><strong>WEB HOSTING<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
             elit. In consequat enim finibus felis lobortis aliquet.</br>
@@ -86,7 +86,7 @@
 <section class= "Presentation_text"  >
     <section class="right_Presentation_text">
         <div class="pres_square" data-aos="fade-left">
-            <div></div>
+            <ion-icon name="cloud-outline"></ion-icon>
             <h4>CLOUD STORAGE</h4>
             
             <p>
@@ -98,7 +98,7 @@
         </div>
 
         <div class="pres_square graybg" data-aos="fade-right">
-            <div></div>
+            <ion-icon name="save-outline"></ion-icon>
             <h4>MEMORY</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -109,7 +109,7 @@
         </div>
 
         <div class="pres_square graybg"  data-aos="fade-right">
-            <div></div>
+            <ion-icon name="thumbs-up-outline"></ion-icon>
             <h4>EASY TO USE</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -120,7 +120,7 @@
         </div>
 
         <div class="pres_square"  data-aos="fade-left">
-            <div></div>
+            <ion-icon name="analytics-outline"></ion-icon>
             <h4>DATA BACKUP</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -145,7 +145,7 @@
 
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
-            <div></div>
+            <ion-icon name="people-outline"></ion-icon>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
             elit. In consequat enim finibus felis lobortis aliquet.</br>
@@ -167,7 +167,7 @@
     </section>
     <section class="right_Presentation_text">
         <div class="pres_square" data-aos="fade-right">
-            <div></div>
+            <ion-icon name="brush-outline"></ion-icon>
             <h4>BRANDING</h4>
             
             <p>
@@ -179,7 +179,7 @@
         </div>
 
         <div class="pres_square graybg" data-aos="fade-left">
-            <div></div>
+            <ion-icon name="people-outline"></ion-icon>
             <h4>TARGET AUDIENCE</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -190,7 +190,7 @@
         </div>
 
         <div class="pres_square graybg" data-aos="fade-left">
-            <div></div>
+            <ion-icon name="analytics-outline"></ion-icon>
             <h4>ANALYTICS</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -201,7 +201,7 @@
         </div>
 
         <div class="pres_square" data-aos="fade-right">
-            <div></div>
+            <ion-icon name="newspaper-outline"></ion-icon>
             <h4>EFFECTIVE POSTS</h4>
             <p>
             Lorem ipsum dolor sit amet,</br>
@@ -216,7 +216,7 @@
 
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
-            <div></div>
+            <ion-icon name="share-social-outline"></ion-icon>
             <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT<strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
             elit. In consequat enim finibus felis lobortis aliquet.</br>

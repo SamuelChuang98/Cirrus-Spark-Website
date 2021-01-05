@@ -66,14 +66,13 @@
     font-size: 18px;
 }
 
-.pres_square div{
+.pres_square ion-icon{
     overflow: hidden;
-    width: 30%;
+    width: 20%;
     height: 30%;
-    background-color: white;
-    border-radius: 50%;
-    margin-left: 36%;
+    margin:auto;
     margin-top: 10%;
+
 }
 
 .additional_service{
@@ -106,13 +105,10 @@
 
 }
 
-.additional_service div{
+.additional_service ion-icon{
     overflow: hidden;
     float: left;
     margin-left: 5%;
-    width: 200px;
-    height: 200px;
-    background-color: #F4F4F4;
-    border-radius: 50%;
-    
+    width: 150px;
+    height: 150px;
 }

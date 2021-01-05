@@ -21,6 +21,9 @@
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+        <!---ion icons--->
+        <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+
         <script>
             function menu() {
             var x = document.getElementById("myLinks");
