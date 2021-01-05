@@ -87,7 +87,7 @@
 
     .quote p{
         overflow: hidden;
-        padding-left: 6.5%;
+        text-align: center;
         font-size: 25px;
     }
     
@@ -139,24 +139,36 @@
 @media screen and (max-width:1200px){
     #getintouch{
         margin-top: 0%;
-        padding-bottom: 25%;
+        padding-bottom: 35%;
     }
 
     #touch{
         margin-left: 10%;
+        font-size: 32px;
     }
 
     #getintouch p{
         margin-left: 10%;
+        font-size: 28px;
     }
 
     .instruction{
         margin-left: 10%;
-        padding-top: 0%;
+        padding-top: 7%;
     }
 
     .number{
         padding-right: 10%;
+        font-size: 32px;
+    }
+
+    .steps{
+        font-size: 32px;
+    }
+
+    .text{
+        width: 100%;
+        font-size: 28px;
     }
 
     .quote{
@@ -209,11 +221,11 @@
         width: 70%;
         float: none;
         margin: 0 auto;
-        margin-bottom: 35%;
+        margin-bottom: 25%;
     }
 
-    .quote p{
-        text-align: center;
+    #submit{
+        font-size: 26px;
     }
    
 }/* END of TABLET*/
@@ -254,15 +266,19 @@
         font-size: 24px;
     }
 
+    .text{
+        width: 100%;
+        font-size: 18px;
+    }
+
     .quote{
-        width: 80%;
+        width: 100%;
         float: none;
         margin: 0 auto;
         margin-bottom: 35%;
     }
 
-    .text{
-        width: 100%;
-        font-size: 18px;
+    #submit{
+        font-size: 26px;
     }
 }

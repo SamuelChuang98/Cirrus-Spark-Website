@@ -21,8 +21,8 @@
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
 
      <p data-aos="fade-down-right"> 
-         Our <strong>step-by-step</strong> estimate process</br>
-         is built to deliver the service of</br>
+         Our <strong>step-by-step</strong> estimate process
+         is built to deliver the service of
          <strong>YOUR</strong> requirements
      </p>
 
@@ -33,7 +33,7 @@
                 <h2><strong>1</strong></h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">FILL IN THE FORM</strong></br><span>You will be contacted within the</br>
+                 <p><strong class= "steps">FILL IN THE FORM</strong></br><span>You will be contacted within the
                  <strong>next 1-2 business days</strong></span></p>
              </div>
          </div>
@@ -43,7 +43,7 @@
                 <h2><strong>2</strong></h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements</br>
+                 <p><strong class= "steps">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements
                  and we come up <strong>with our solution</strong></span></p>
              </div>
 
@@ -53,7 +53,7 @@
                 <h2><strong>3</strong></h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">SIT BACK AND RELAX</strong></br><span><strong>Regular review meetings</strong> will occur</br>
+                 <p><strong class= "steps">SIT BACK AND RELAX</strong></br><span><strong>Regular review meetings</strong> will occur
                  to make sure we are on the right path</span></p>
              </div>
 
