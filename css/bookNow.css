@@ -137,10 +137,60 @@
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
+    #getintouch{
+        margin-top: 0%;
+        padding-bottom: 25%;
+    }
+
+    #touch{
+        margin-left: 10%;
+    }
+
+    #getintouch p{
+        margin-left: 10%;
+    }
+
+    .instruction{
+        margin-left: 10%;
+        padding-top: 0%;
+    }
+
+    .number{
+        padding-right: 10%;
+    }
+
+    .quote{
+        width: 40%;
+    }
+
 }
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+    #getintouch{
+        margin-top: 0%;
+    }
+
+    #touch{
+        margin-left: 10%;
+    }
+
+    #getintouch p{
+        margin-left: 10%;
+    }
+
+    .instruction{
+        margin-left: 10%;
+        padding-top: 0%;
+    }
+
+    .number{
+        padding-right: 10%;
+    }
+
+    .quote{
+        width: 40%;
+    }
    
 }/* END of TABLET*/
 
@@ -148,12 +198,30 @@
 @media screen and (max-width:480px){
     #getintouch{
         width: 100%;
-        margin-left: 0%;
+        float: none;
+        padding-bottom: 20%;
+    }
+
+    #touch{
+        margin-left: 11%;
+    }
+
+    #getintouch p{
+        margin-left: 11%;
+    }
+
+    .instruction{
+        margin-left: 11%;
+    }
+
+    .number{
+        padding-right: 10%;
     }
 
     .quote{
-        width: 70%;
-        margin: auto;
-        margin-bottom: 30%;
+        width: 80%;
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 35%;
     }
 }
