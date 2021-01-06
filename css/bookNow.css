@@ -130,10 +130,17 @@
 
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
+    #top{
+        background-image: url(../img/booknow/book-xlarge.jpg);
+    }
 }
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
+    #top{
+        background-image: url(../img/booknow/book-l.jpg);
+    }
+
     #getintouch{
         margin-top: 0%;
         padding-bottom: 35%;
@@ -176,6 +183,10 @@
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+    #top{
+        background-image: url(../img/booknow/book-m.jpg);
+    }
+
     #getintouch{
         margin-top: 5%;
         width: 100%;
@@ -229,6 +240,10 @@
 
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
+    #top{
+        background-image: url(../img/booknow/book-s.jpg);
+    }
+
     #getintouch{
         margin-top: 5%;
         width: 100%;

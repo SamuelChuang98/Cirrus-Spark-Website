@@ -127,11 +127,16 @@
 
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
+    #top{
+        background-image: url(../img/ourservices/fancydesk-xlarge.jpg);
+    }
 }
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
-
+    #top{
+        background-image: url(../img/ourservices/fancydesk-l.jpg);
+    }
     .additional_service p{
         width: 30%;
     }
@@ -139,6 +144,9 @@
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+    #top{
+        background-image: url(../img/ourservices/fancydesk-m.jpg);
+    }
 
     .Presentation_text{
          display: flex;
@@ -199,6 +207,9 @@
 
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
+    #top{
+        background-image: url(../img/ourservices/fancydesk-s.jpg);
+    }
 
     .left_Presentation_text h3{
         font-size: 32px;

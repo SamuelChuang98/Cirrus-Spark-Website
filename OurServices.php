@@ -3,7 +3,6 @@
     $title="Services";
     $first_line="WE TAKE CARE OF THE <strong>FANCY</strong> STUFF";
     $second_line="SO THAT <strong>YOU</strong> DON'T HAVE TO.";
-    $bg_img="img/fancydesk.jpg";
     
     
     include("includes/header.php");
@@ -75,7 +74,7 @@
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="server-outline"></ion-icon>
-            <h4>Additional Service</br><strong>WEB HOSTING<strong></h4>
+            <h4>Additional Service</br><strong>WEB HOSTING</strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing
             elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
@@ -146,7 +145,7 @@
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="people-outline"></ion-icon>
-            <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM<strong></h4>
+            <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM</strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing
             elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
@@ -217,7 +216,7 @@
 <section class="in_between">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="share-social-outline"></ion-icon>
-            <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT<strong></h4>
+            <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT</strong></h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing
             elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
