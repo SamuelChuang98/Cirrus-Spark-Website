@@ -15,10 +15,10 @@
 <section class= "Presentation_text">
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>PROFESSIONAL</br>WEBSITES</h3>
-        <p>We believe in bringing more user attention with good</br>
-        branding. This is why we spend extra time with the</br>
-        clients to discuss and plan out all the clear details of</br>
-        their business to finally create a fully developped</br> 
+        <p>We believe in bringing more user attention with good
+        branding. This is why we spend extra time with the
+        clients to discuss and plan out all the clear details of
+        their business to finally create a fully developped
         website that would reflect their brand.</p>
 
         </br><input type="submit" Value="BEGIN PROJECT">
@@ -29,9 +29,9 @@
             <h4>SEO</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -40,9 +40,9 @@
             <ion-icon name="brush-outline"></ion-icon>
             <h4>CLEAN DESIGN</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -51,9 +51,9 @@
             <ion-icon name="phone-portrait-outline"></ion-icon>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -62,9 +62,9 @@
             <ion-icon name="cog-outline"></ion-icon>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -76,23 +76,23 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="server-outline"></ion-icon>
             <h4>Additional Service</br><strong>WEB HOSTING<strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
-            elit. In consequat enim finibus felis lobortis aliquet.</br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+            elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
             
     </section>
 </section>
 
 <section class= "Presentation_text"  >
-    <section class="right_Presentation_text">
+    <section class="right_Presentation_text" id="servertxt">
         <div class="pres_square" data-aos="fade-left">
             <ion-icon name="cloud-outline"></ion-icon>
             <h4>CLOUD STORAGE</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -101,9 +101,9 @@
             <ion-icon name="save-outline"></ion-icon>
             <h4>MEMORY</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -112,9 +112,9 @@
             <ion-icon name="thumbs-up-outline"></ion-icon>
             <h4>EASY TO USE</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -123,9 +123,9 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>DATA BACKUP</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -133,10 +133,10 @@
     </section>
     <section class="left_Presentation_text" data-aos="flip-right">
         <h3>SERVER</br>INSTALLATION</h3>
-        <p>We believe in bringing more user attention with good</br>
-        branding. This is why we spend extra time with the</br>
-        clients to discuss and plan out all the clear details of</br>
-        their business to finally create a fully developped</br> 
+        <p>We believe in bringing more user attention with good
+        branding. This is why we spend extra time with the
+        clients to discuss and plan out all the clear details of
+        their business to finally create a fully developped
         website that would reflect their brand.</p>
 
         </br><input type="submit" Value="BEGIN PROJECT">
@@ -147,8 +147,8 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="people-outline"></ion-icon>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM<strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
-            elit. In consequat enim finibus felis lobortis aliquet.</br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+            elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
             
     </section>
@@ -157,10 +157,10 @@
 <section class= "Presentation_text">
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
-        <p>We believe in bringing more user attention with good</br>
-        branding. This is why we spend extra time with the</br>
-        clients to discuss and plan out all the clear details of</br>
-        their business to finally create a fully developped</br> 
+        <p>We believe in bringing more user attention with good
+        branding. This is why we spend extra time with the
+        clients to discuss and plan out all the clear details of
+        their business to finally create a fully developped
         website that would reflect their brand.</p>
 
         </br><input type="submit" Value="BEGIN PROJECT">
@@ -171,9 +171,9 @@
             <h4>BRANDING</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -182,9 +182,9 @@
             <ion-icon name="people-outline"></ion-icon>
             <h4>TARGET AUDIENCE</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -193,9 +193,9 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>ANALYTICS</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -204,9 +204,9 @@
             <ion-icon name="newspaper-outline"></ion-icon>
             <h4>EFFECTIVE POSTS</h4>
             <p>
-            Lorem ipsum dolor sit amet,</br>
-            consectetur  adipiscing elit.</br>
-            In consequat enim finibus</br>
+            Lorem ipsum dolor sit amet,
+            consectetur  adipiscing elit.
+            In consequat enim finibus
             felis lobortis aliquet.
             </p>
         </div>
@@ -218,8 +218,8 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="share-social-outline"></ion-icon>
             <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT<strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing</br>
-            elit. In consequat enim finibus felis lobortis aliquet.</br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+            elit. In consequat enim finibus felis lobortis aliquet.
             Aenean gravida gravida metus sed dictum.</p>
             
     </section>
