@@ -21,7 +21,7 @@
         their business to finally create a fully developped
         website that would reflect their brand.</p>
 
-        </br><input type="submit" Value="BEGIN PROJECT">
+        </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
     <section class="right_Presentation_text">
         <div class="pres_square" data-aos="fade-right">
@@ -139,7 +139,7 @@
         their business to finally create a fully developped
         website that would reflect their brand.</p>
 
-        </br><input type="submit" Value="BEGIN PROJECT">
+        </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
 </section>
 
@@ -163,7 +163,7 @@
         their business to finally create a fully developped
         website that would reflect their brand.</p>
 
-        </br><input type="submit" Value="BEGIN PROJECT">
+        </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
     <section class="right_Presentation_text">
         <div class="pres_square" data-aos="fade-right">
