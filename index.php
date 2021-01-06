@@ -41,7 +41,7 @@
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
                     plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
-                <button>LEARN MORE > </button>
+                <button onclick="location.href='OurServices.php'">LEARN MORE > </button>
             </div>
         </div>
         <div id="serv-sect">
@@ -51,7 +51,7 @@
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
                     plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
-                <button>LEARN MORE > </button>
+                <button onclick="location.href='OurServices.php'">LEARN MORE > </button>
             </div>
             
         </div>
@@ -62,7 +62,7 @@
                 <p>We believe in bringing more user attention with good branding. 
                     This is why we spend extra time with the clients to discuss and 
                     plan out all the clear details of their business to finally create a fully developped website that would reflect their brand.</p>
-                <button>LEARN MORE > </button>
+                <button onclick="location.href='OurServices.php'">LEARN MORE > </button>
             </div>
         </div>
 

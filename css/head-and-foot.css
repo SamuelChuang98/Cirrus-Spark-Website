@@ -64,6 +64,19 @@ ul a:hover{
     display:none;
 }
 
+#bookNow-btn{
+    border:2px solid#2cb1e5;
+    color:#2cb1e5;
+    padding:10px;
+}
+
+#bookNow-btn:hover{
+    background:#2cb1e5;
+    color:white;
+    padding:10px;
+}
+
+
 /************** FOOTER **************/
 
 footer {
