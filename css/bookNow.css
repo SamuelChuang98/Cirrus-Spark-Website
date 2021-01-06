@@ -91,20 +91,22 @@
         font-size: 25px;
     }
     
-    .fo input{
+    .fo input, .fo select{
         overflow: hidden;
-        margin-top: 14%;
+        margin-top: 8%;
         width: 75%;
         height: 55px;
         border-radius: 7px;
         margin-left: 13%;
         padding-left: 10px;
-        
+    }
+    .fo select{
+        width: 78%;
     }
 
     #comments{
         overflow: hidden;
-        margin-top: 14%;
+        margin-top: 8%;
         width: 75%;
         height: 185px;
         border-radius: 7px;
@@ -119,14 +121,9 @@
         font-size: 36px;
     }
 
-    .fo select{
-        overflow: hidden;
-        margin-top: 14%;
-        width: 75%;
-        height: 55px;
-        margin-left: 13%;
-        border-radius: 7px;
-        padding-left: 10px;
+    #submit:hover{
+        background-color: white;
+        color: #249ccc;
     }
 
     /***************************  MEDIA QUERY (MQ) ******************************/
@@ -272,7 +269,7 @@
     }
 
     .quote{
-        width: 100%;
+        width: 90%;
         float: none;
         margin: 0 auto;
         margin-bottom: 35%;

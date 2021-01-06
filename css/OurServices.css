@@ -29,14 +29,20 @@
     font-weight: normal;
 }
 
-.left_Presentation_text input{
+.left_Presentation_text button{
     margin-top: 5%;
     margin-left: 32%;
-    width: 20%;
+    padding-right: 2%;
+    padding-left: 2%;
     height: 42px;
     font-weight: bold;
     color: white;
     background-color: black;
+}
+
+.left_Presentation_text button:hover{
+    background-color: white;
+    color: black;
 }
 
 .right_Presentation_text{
@@ -55,6 +61,7 @@
     background-color: #8AC7DB;
     text-align: center;
 }
+
 .graybg{
     background-color: #D4F1F4;
 }
@@ -124,9 +131,6 @@
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
-    .left_Presentation_text input{
-       width: 30%;
-    }
 
     .additional_service p{
         width: 30%;
@@ -135,6 +139,12 @@
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+
+    .Presentation_text{
+         display: flex;
+         flex-direction: column;
+    }
+
     .left_Presentation_text{
         float: none;
         width: 100%;
@@ -152,17 +162,16 @@
         margin: auto;
     }
 
-    .left_Presentation_text input{
-        width: 15%;
+    .left_Presentation_text button{
         margin-left: 40%;
      }
 
      #servertxt{
-         float: right;
+         order: 2;
      }
      
      #serverinfo{
-         float: right;
+         order: 1;
      }
 
     .right_Presentation_text{
@@ -199,8 +208,7 @@
         font-size: 18px;
     }
 
-    .left_Presentation_text input{
-        width: 30%;
+    .left_Presentation_text button{
         margin-left: 35%;
     }
 
@@ -234,7 +242,7 @@
     }
 
     .additional_service{
-        width: 80%;
+        width: 100%;
     }
 
     .additional_service h4{
