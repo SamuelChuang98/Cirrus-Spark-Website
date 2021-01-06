@@ -131,7 +131,7 @@
         </div>
 
     </section>
-    <section class="left_Presentation_text" data-aos="flip-right">
+    <section class="left_Presentation_text" data-aos="flip-right" id="serverinfo">
         <h3>SERVER</br>INSTALLATION</h3>
         <p>We believe in bringing more user attention with good
         branding. This is why we spend extra time with the

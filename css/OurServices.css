@@ -157,6 +157,14 @@
         margin-left: 40%;
      }
 
+     #servertxt{
+         float: right;
+     }
+     
+     #serverinfo{
+         float: right;
+     }
+
     .right_Presentation_text{
         width: 100%;
     }
@@ -238,6 +246,4 @@
         width: 100%;
         margin-left: 3%;
     }
-
-
 }
