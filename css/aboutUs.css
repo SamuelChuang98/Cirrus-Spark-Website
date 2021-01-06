@@ -157,10 +157,17 @@
 
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
+    #top{
+        background-image: url("../img/mtl/mtl.jpg");
+    }
 }
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
+    #top{
+        background-image: url("../img/mtl/mtl-l.jpg");
+    }
+
     #story h3{
         margin-left:20%;
     }
@@ -178,6 +185,10 @@
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+    #top{
+        background-image: url("../img/mtl/mtl-m.jpg");
+    }
+
     #story h3{
         width:100%;
         margin-left:10%;
@@ -220,6 +231,10 @@
 
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
+    #top{
+        background-image: url("../img/mtl/mtl-s.jpg");
+    }
+
     .meet-info{
         width:95%;
     }
