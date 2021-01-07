@@ -67,7 +67,7 @@
     <p> Request today and recieve a <strong>15% discount!</strong></p>
 
 
-     <form class= "fo">
+     <form class= "fo" action="feedback.php" method="post">
          <input type="text" placeholder="Name"></br>
          <input type="text" placeholder="Email"></br>
          <input type="text" placeholder="Phone Number"></br>
