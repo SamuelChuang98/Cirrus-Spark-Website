@@ -5,11 +5,14 @@
 /*Top*/
 
 #main-top{
+    
+    width:100%;
+    overflow:hidden;
     height: 500px;
     padding-top:80px;
-    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-attachment: fixed;
+    background-position:center;
 }
 
 #info-top{
@@ -55,7 +58,6 @@
 #m-statement {
     border-top:10px solid #2cb1e5;
     background: #CFCFCF;
-    background-image: url("../img/mtl.jpg");
     background-size: cover;
     background-position: center;
     height:300px;
@@ -153,19 +155,38 @@
 
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
+    #main-top {
+        background-image: url("../img/home-bg/bg.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    #m-statement{
+        background-image: url("../img/mtl/mtl.jpg");
+    }
 }
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
+    #main-top {
+        background-image: url("../img/home-bg/bg-l.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
     #m-statement{
         height:auto;
         padding-bottom:10%;
+        background-image: url("../img/mtl/mtl-l.jpg");
     }
 
 }
 
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
+    #main-top {
+        background-image: url("../img/home-bg/bg-m.jpg");
+    }
     
     #ourServices{
         padding:5%;
@@ -186,6 +207,10 @@
    #serv-sect .serv-desc {
     float:left;
    }
+
+   #m-statement{
+        background-image: url("../img/mtl/mtl-m.jpg");
+    }
 }/* END of TABLET*/
 
 /* MQ for MOBILE*/
@@ -194,6 +219,10 @@
     #main-top{
         height:auto;
         padding-bottom:20%;
+        background-image: url("../img/home-bg/bg-m.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
     }
 
     #statement-box{
@@ -210,7 +239,6 @@
     }
 
     #info-top button{
-        
         float:none;
         margin-left:10%;
         width:80%;
@@ -219,5 +247,9 @@
 
     #cta-btn{
         width:100%;
+    }
+
+    #m-statement{
+        background-image: url("../img/mtl/mtl-s.jpg");
     }
 }
