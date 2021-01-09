@@ -28,7 +28,7 @@
             
             <p>
             It’s all about the page rank, isn’t it? Search Engine Optimization is what makes 
-            your website easily visible and accessible to the rest of the wrold.
+            your website easily visible and accessible to the rest of the world.
             </p>
         </div>
 
@@ -44,7 +44,7 @@
             <ion-icon name="phone-portrait-outline"></ion-icon>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
-            40% of Internet traffic goes throught mobile. We will make your website appealing
+            40% of Internet traffic goes through mobile. We will make your website appealing
             to look at on any display!
             </p>
         </div>
@@ -53,7 +53,7 @@
             <ion-icon name="cog-outline"></ion-icon>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
-            From ecommerce functionnalities to custom databases we will equip your websites with the latest technologies.
+            From ecommerce functionalities to custom databases we will equip your websites with the latest technologies.
             </p>
         </div>
 
@@ -86,7 +86,7 @@
             <ion-icon name="save-outline"></ion-icon>
             <h4>MEMORY</h4>
             <p>
-            We will allocate you with as much memory as you need. Pay fo what you use no more no less !
+            We will allocate you with as much memory as you need. Pay for what you use no more no less !
             </p>
         </div>
 
@@ -103,8 +103,8 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>DATA BACKUP</h4>
             <p>
-            Your dog's pictures and client's files will be safe with us !
-            Save yourself from the headich of losing all your clients data. 
+            Your dog's pictures and client's files will be safe with us ! 
+            Save yourself from the headache of losing all your clients data. 
             </p>
         </div>
 
@@ -113,7 +113,7 @@
         <h3>SERVER</br>INSTALLATION</h3>
         <p>You can’t afford to lose your client data. Data management is essential in keeping information organized. 
         You need a secure place where you can store your client files that can be accessed from any of your computers 24/7 
-        and a backup of your data. A server is what you need.We will work with you to secure your data and provide and set 
+        and a backup of your data. A server is what you need. We will work with you to secure your data and provide and set 
         you up with our most reliable servers. </p>
 
         </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
@@ -135,7 +135,7 @@
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
         <p>Now that the basics are set up you need to generate some leads ! Digital marketing is the way to go. 
-        Attract traffic to your website using adsense, Facebook ads, LinkedIn ads, etc. We will work with you 
+        Attract traffic to your website using AdSense, Facebook ads, LinkedIn ads, etc. We will work with you 
         to grow your online presence and build a custom marketing plan for your business.</p>
 
         </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
@@ -146,7 +146,7 @@
             <h4>BRANDING</h4>
             
             <p>
-            make yourelf stand out with unique yet recognizable branding ! 
+            Make yourself stand out with unique yet recognizable branding ! 
             </p>
         </div>
 
@@ -154,8 +154,7 @@
             <ion-icon name="people-outline"></ion-icon>
             <h4>TARGET AUDIENCE</h4>
             <p>
-            Don't waste your energy on people who are not intersted in you. 
-            We will make you visible for thoses you serve.
+            Don't waste your energy on people who are not interested in you. We will make you visible for those you serve.
             </p>
         </div>
 
@@ -163,7 +162,7 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>ANALYTICS</h4>
             <p>
-            Let's talk numbers ! Leads convertion ratio, customer aquesition cost, etc. 
+            Let's talk numbers ! Leads conversion ratio, customer acquisition cost, etc.
             </p>
         </div>
 
@@ -171,7 +170,7 @@
             <ion-icon name="newspaper-outline"></ion-icon>
             <h4>EFFECTIVE POSTS</h4>
             <p>
-            Attract more clientele with intersting and engaging posts !
+            Attract more clientele with interesting and engaging posts !
             </p>
         </div>
 

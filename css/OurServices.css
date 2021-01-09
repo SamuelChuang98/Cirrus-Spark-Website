@@ -85,6 +85,13 @@
     margin-top: 10%;
 }
 
+.in_between{
+    overflow: hidden;
+    background-image: url('../img/lap.jpg');
+    background-attachment: fixed;
+    
+}
+
 .additional_service{
     overflow: hidden;
     width: 65%;
