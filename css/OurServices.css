@@ -102,6 +102,7 @@
 #in_between3{
     overflow: hidden;
     background-image: url('../img/social2.jpg');
+    background-size: cover;
     background-attachment: fixed;
     
 }
@@ -114,7 +115,8 @@
     margin-top: 10%;
     margin-bottom: 10%;
     padding: 2%;
-    background-color:#8AC7DB;
+    background-color: white;
+    border-left: solid #2cb1e5 35px;
 }
 
 .additional_service h4{
