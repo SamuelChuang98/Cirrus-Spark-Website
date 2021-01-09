@@ -64,9 +64,9 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="server-outline"></ion-icon>
             <h4>Additional Service</br><strong>WEB HOSTING</strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. In consequat enim finibus felis lobortis aliquet.
-            Aenean gravida gravida metus sed dictum.</p>
+            <p> Now that your website is all well in done you need a server to host the website 
+            and publish it in the internet for the world to see ! We have your solution 
+            we can host your website in our servers.</p>
             
     </section>
 </section>
@@ -78,10 +78,7 @@
             <h4>CLOUD STORAGE</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Store your data in the cloud and access it whenever you want from wherever you want ! 
             </p>
         </div>
 
@@ -89,10 +86,7 @@
             <ion-icon name="save-outline"></ion-icon>
             <h4>MEMORY</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            We will allocate you with as much memory as you need. Pay fo what you use no more no less !
             </p>
         </div>
 
@@ -100,10 +94,8 @@
             <ion-icon name="thumbs-up-outline"></ion-icon>
             <h4>EASY TO USE</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            intuitive and simple is our priority. We will provide you with easy to use tools 
+            to make sure your data is safe and easy to access. 
             </p>
         </div>
 
@@ -111,10 +103,8 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>DATA BACKUP</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Your dog's pictures and client's files will be safe with us !
+            Save yourself from the headich of losing all your clients data. 
             </p>
         </div>
 
@@ -135,8 +125,8 @@
             <ion-icon name="people-outline"></ion-icon>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM</strong></h4>
             <p>A Successful business runs with optimized and efficient software tools. Use technology to make your job easier. 
-            From a client management system, invoice generator, contract generator, statistics tools, survey generator, etc. 
-            We will make sure to provide you with the right tools that you will need to ensure  high productivity. </p>
+            From a client management system to statistics tools. We will  provide you with the right 
+            tools to ensure high productivity. </p>
             
     </section>
 </section>
@@ -144,7 +134,7 @@
 <section class= "Presentation_text">
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
-        <p>Now that the basics are set up you need to generate some leads! Digital marketing is the way to go. 
+        <p>Now that the basics are set up you need to generate some leads ! Digital marketing is the way to go. 
         Attract traffic to your website using adsense, Facebook ads, LinkedIn ads, etc. We will work with you 
         to grow your online presence and build a custom marketing plan for your business.</p>
 
@@ -156,10 +146,7 @@
             <h4>BRANDING</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            make yourelf stand out with unique yet recognizable branding ! 
             </p>
         </div>
 
@@ -167,10 +154,8 @@
             <ion-icon name="people-outline"></ion-icon>
             <h4>TARGET AUDIENCE</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Don't waste your energy on people who are not intersted in you. 
+            We will make you visible for thoses you serve.
             </p>
         </div>
 
@@ -178,10 +163,7 @@
             <ion-icon name="analytics-outline"></ion-icon>
             <h4>ANALYTICS</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Let's talk numbers ! Leads convertion ratio, customer aquesition cost, etc. 
             </p>
         </div>
 
@@ -189,10 +171,7 @@
             <ion-icon name="newspaper-outline"></ion-icon>
             <h4>EFFECTIVE POSTS</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Attract more clientele with intersting and engaging posts !
             </p>
         </div>
 
@@ -203,9 +182,10 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="share-social-outline"></ion-icon>
             <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT</strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. In consequat enim finibus felis lobortis aliquet.
-            Aenean gravida gravida metus sed dictum.</p>
+            <p>Promote your brand values and core ideas 
+            through your social media communications and posts by using the right tools.
+            We will make sure you achieve your marketing target this year.
+            </p>
             
     </section>
 </section>
