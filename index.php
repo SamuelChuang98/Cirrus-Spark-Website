@@ -35,7 +35,14 @@
     <section id="ourServices">
         <h2>OUR SERVICES</h2>
         <div id="web-sect">
-            <img src="img/webDesign.jpg" class="img" data-aos="fade-right">
+            <img class="img" data-aos="fade-right"
+            
+            srcset="img/wd/webDesign.jpg 1600w,
+                img/wd/webDesign-l.jpg  1200w,
+                img/wd/webDesign-m.jpg  980w,
+                img/wd/webDesign-s.jpg  480w
+            "
+            >
             <div class="serv-desc" data-aos="fade-left">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
@@ -45,7 +52,14 @@
             </div>
         </div>
         <div id="serv-sect">
-        <img src="img/server.jpg" class="img" data-aos="fade-left">
+        <img class="img" data-aos="fade-left"
+        
+        srcset="img/server/server.jpg 1600w,
+                img/server/server-l.jpg 1200w,
+                img/server/server-m.jpg 980w,
+                img/server/server-s.jpg 480w
+            "
+        >
             <div class="serv-desc" data-aos="fade-right">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 
@@ -56,7 +70,17 @@
             
         </div>
         <div id="media-sect">
-        <img src="img/smedia.jpg" class="img" data-aos="fade-right">
+        <img class="img" data-aos="fade-right"
+            srcset="img/media/socialmedia.jpg 1600w,
+                    img/media/socialmedia-l.jpg 1200w,
+                    img/media/socialmedia-m.jpg 980w,
+                    img/media/socialmedia-s.jpg 480w
+            "
+        >
+
+
+
+
             <div class="serv-desc" data-aos="fade-left">
                 <h4>CREATE PROFESSIONAL WEBSITES</h4>
                 <p>We believe in bringing more user attention with good branding. 

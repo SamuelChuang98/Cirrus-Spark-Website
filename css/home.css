@@ -200,12 +200,14 @@
    
     .serv-desc{
        width:80%;
-       margin:0;
+       margin:0 auto;
        float:none;
+       overflow:hidden;
    }
 
    #serv-sect .serv-desc {
-    float:left;
+    float:none;
+    margin:auto;
    }
 
    #m-statement{
@@ -250,6 +252,6 @@
     }
 
     #m-statement{
-        background-image: url("../img/mtl/mtl-s.jpg");
+        background-image: url("../img/mtl/mtl-m.jpg");
     }
 }

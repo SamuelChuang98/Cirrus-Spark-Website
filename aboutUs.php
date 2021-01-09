@@ -87,7 +87,6 @@ include("includes/header-2.php");
                 <p>Competition is a driver for innovation and progress.We embrace competition,
                 this idea to surpass yourself repeatedly is thrilling and is the reason why the train never stops.</p>
             </div>
-
         </div>
 
         <div class="values-row">

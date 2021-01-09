@@ -29,7 +29,6 @@
 
 #meetDuo{
     text-align:center;
-    background-image: url("../img/building.jpg");
     background-size: cover;
     padding-top:50px;
     padding-bottom:50px;
@@ -58,13 +57,11 @@
 }
 
 #Sam .proPic {
-   background:url("../img/samuel.jpg");
    background-size:contain;
    transition: 0.3s;
 }
 
 #Amine .proPic {
-    background:url("../img/amine.jpg");
     background-size:contain;
     transition: 0.3s;
  }
@@ -160,6 +157,19 @@
     #top{
         background-image: url("../img/mtl/mtl.jpg");
     }
+
+    #meetDuo{
+        background-image: url("../img/building/building.jpg");
+        background-size: cover;
+    }
+
+    #Sam .proPic {
+        background-image:url("../img/sam/samuel.jpg");
+    }
+
+    #Amine .proPic{
+        background-image:url("../img/amine/amine.jpg")
+    }
 }
 
 /* MQ for DESKTOP*/
@@ -179,6 +189,19 @@
 
     .meet-info {
         width:70%;
+    }
+
+    #meetDuo{
+        background-image: url("../img/building/building-l.jpg");
+        background-size: cover;
+    }
+
+    #Sam .proPic {
+        background-image:url("../img/sam/samuel-l.jpg");
+    }
+
+    #Amine .proPic{
+        background-image:url("../img/amine/amine-l.jpg")
     }
 
 }
@@ -208,8 +231,13 @@
         width:60%;
     }
 
-    #Sam .proPic{
+    #Sam .proPic {
+        background-image:url("../img/sam/samuel-m.jpg");
         margin-top:10%;
+    }
+
+    #Amine .proPic{
+        background-image:url("../img/amine/amine-m.jpg")
     }
 
     .values-row {
@@ -227,6 +255,8 @@
         padding:15px;
     }
 
+
+
 }/* END od TABLET*/
 
 /* MQ for MOBILE*/
@@ -243,4 +273,13 @@
         width:100%;
     }
 
+    #Sam .proPic {
+        background-image:url("../img/sam/samuel-s.jpg");
+        margin-top:10%;
+    }
+
+    #Amine .proPic{
+        background-image:url("../img/amine/amine-s.jpg")
+    }
+    
 }
