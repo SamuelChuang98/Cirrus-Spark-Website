@@ -209,6 +209,10 @@
         width: 100%;
     }
 
+    .additional_service{
+        border-left: solid #2cb1e5 15px;
+    }
+
     .additional_service ion-icon{
         width: 80px;
         height: 80px;
@@ -276,7 +280,7 @@
     }
 
     .additional_service{
-        width: 100%;
+        width: 90%;
     }
 
     .additional_service h4{
