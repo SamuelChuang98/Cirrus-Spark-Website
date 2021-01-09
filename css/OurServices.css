@@ -85,9 +85,23 @@
     margin-top: 10%;
 }
 
-.in_between{
+#in_between1{
     overflow: hidden;
-    background-image: url('../img/lap.jpg');
+    background-image: url('../img/lap2.jpg');
+    background-attachment: fixed;
+    
+}
+
+#in_between2{
+    overflow: hidden;
+    background-image: url('../img/graph2.jpg');
+    background-attachment: fixed;
+    
+}
+
+#in_between3{
+    overflow: hidden;
+    background-image: url('../img/social2.jpg');
     background-attachment: fixed;
     
 }

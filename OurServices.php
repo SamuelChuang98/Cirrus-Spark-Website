@@ -60,7 +60,7 @@
     </section>
 </section>
 
-<section class="in_between">
+<section class="in_between" id="in_between1">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="server-outline"></ion-icon>
             <h4>Additional Service</br><strong>WEB HOSTING</strong></h4>
@@ -120,7 +120,7 @@
     </section>
 </section>
 
-<section class="in_between">
+<section class="in_between" id="in_between2">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="people-outline"></ion-icon>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM</strong></h4>
@@ -177,7 +177,7 @@
     </section>
 </section>
 
-<section class="in_between">
+<section class="in_between" id="in_between3">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="share-social-outline"></ion-icon>
             <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT</strong></h4>
