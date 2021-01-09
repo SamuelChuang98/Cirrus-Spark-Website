@@ -2,7 +2,7 @@
     $page_title="Our Services |  Cirrus Spark";
     $title="Services";
     $first_line="WE TAKE CARE OF THE <strong>FANCY</strong> STUFF";
-    $second_line="SO THAT <strong>YOU</strong> DON'T HAVE TO.";
+    $second_line="SO THAT <strong>YOU</strong> DON'T HAVE TO."; 
     
     
     include("includes/header.php");
@@ -14,11 +14,10 @@
 <section class= "Presentation_text">
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>PROFESSIONAL</br>WEBSITES</h3>
-        <p>We believe in bringing more user attention with good
-        branding. This is why we spend extra time with the
-        clients to discuss and plan out all the clear details of
-        their business to finally create a fully developped
-        website that would reflect their brand.</p>
+        <p>The world is going online. Websites are the modern equivalent of the business card except it can do much more : 
+        generating leads, showcasing your portfolio, ecommerce, hosting e-tools, etc. Used well these functionalities will grow your 
+        business like never before. Dynamic, static , ecommerce, portfolio or utility websites. We will work with you to design the 
+        type of website that you need to kick start your business.</p>
 
         </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
@@ -28,10 +27,8 @@
             <h4>SEO</h4>
             
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            It’s all about the page rank, isn’t it? Search Engine Optimization is what makes 
+            your website easily visible and accessible to the rest of the wrold.
             </p>
         </div>
 
@@ -39,10 +36,7 @@
             <ion-icon name="brush-outline"></ion-icon>
             <h4>CLEAN DESIGN</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            Simple yet complex, we will design a website you will be proud to show to your customers
             </p>
         </div>
 
@@ -50,10 +44,8 @@
             <ion-icon name="phone-portrait-outline"></ion-icon>
             <h4>MOBILE RESPONSIVE</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            40% of Internet traffic goes throught mobile. We will make your website appealing
+            to look at on any display!
             </p>
         </div>
 
@@ -61,10 +53,7 @@
             <ion-icon name="cog-outline"></ion-icon>
             <h4>CUSTOM FUNCTIONALITIES</h4>
             <p>
-            Lorem ipsum dolor sit amet,
-            consectetur  adipiscing elit.
-            In consequat enim finibus
-            felis lobortis aliquet.
+            From ecommerce functionnalities to custom databases we will equip your websites with the latest technologies.
             </p>
         </div>
 
@@ -132,11 +121,10 @@
     </section>
     <section class="left_Presentation_text" data-aos="flip-right" id="serverinfo">
         <h3>SERVER</br>INSTALLATION</h3>
-        <p>We believe in bringing more user attention with good
-        branding. This is why we spend extra time with the
-        clients to discuss and plan out all the clear details of
-        their business to finally create a fully developped
-        website that would reflect their brand.</p>
+        <p>You can’t afford to lose your client data. Data management is essential in keeping information organized. 
+        You need a secure place where you can store your client files that can be accessed from any of your computers 24/7 
+        and a backup of your data. A server is what you need.We will work with you to secure your data and provide and set 
+        you up with our most reliable servers. </p>
 
         </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
@@ -146,9 +134,9 @@
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="people-outline"></ion-icon>
             <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM</strong></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. In consequat enim finibus felis lobortis aliquet.
-            Aenean gravida gravida metus sed dictum.</p>
+            <p>A Successful business runs with optimized and efficient software tools. Use technology to make your job easier. 
+            From a client management system, invoice generator, contract generator, statistics tools, survey generator, etc. 
+            We will make sure to provide you with the right tools that you will need to ensure  high productivity. </p>
             
     </section>
 </section>
@@ -156,11 +144,9 @@
 <section class= "Presentation_text">
     <section class="left_Presentation_text" data-aos="flip-left">
         <h3>SOCIAL MEDIA</br>MARKETING</h3>
-        <p>We believe in bringing more user attention with good
-        branding. This is why we spend extra time with the
-        clients to discuss and plan out all the clear details of
-        their business to finally create a fully developped
-        website that would reflect their brand.</p>
+        <p>Now that the basics are set up you need to generate some leads! Digital marketing is the way to go. 
+        Attract traffic to your website using adsense, Facebook ads, LinkedIn ads, etc. We will work with you 
+        to grow your online presence and build a custom marketing plan for your business.</p>
 
         </br><button onclick="location.href='BookNow.php'">BEGIN PROJECT</button>
     </section>
