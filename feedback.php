@@ -13,7 +13,7 @@ if(isset($_POST['submit'])){
 	$txt = "You have received an e-mail from ".$name.",\n\n".$comments;
 
 	mail($emailTo, $service, $txt, $headers);
-	header("Location: bookNow.php");
+	header("Location: thankyou.php");
 }
 
 ?>

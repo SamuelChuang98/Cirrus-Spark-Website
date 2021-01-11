@@ -1,0 +1,38 @@
+.thanks{
+    overflow: hidden;
+    text-align: center;
+    background-color: #2cb1e5;
+    color: white;
+    padding-bottom: 15%;
+}
+
+.thanks h1{
+    overflow: hidden;
+    margin-top: 12%;
+    font-size: 40px;
+}
+
+.thanks p{
+    overflow: hidden;
+    margin-top: 3%;
+    font-size: 28px;
+}
+
+.thanks button{
+    margin-top: 2%;
+    height: 60px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.thanks button:hover{
+    color: black;
+    background-color: white;
+}
+
+.thanks button ion-icon{
+    width: 40px;
+    height: 40px;
+}
