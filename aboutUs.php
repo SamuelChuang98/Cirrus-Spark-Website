@@ -29,12 +29,11 @@ include("includes/header-2.php");
                 <div class="meet-info" data-aos="zoom-in-up">
                     <h4>AMINE KABENE</h4>
                     <h5>CO-OWNER</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Cras egestas viverra ante, consequat lobortis metus consectetur id. Aenean tortor ligula,
-                        dignissim nec consectetur egestas, iaculis ut magna. Sed non iaculis nunc.
-                        Sed at nibh vitae dui congue ultrices. Nunc eu eros a mi vulputate maximus.
-                        Ut purus nisi, euismod ullamcorper hendrerit ut, sagittis sed lectus. Praesent nec nisi at
-                        risus finibus laoreet nec vel libero. Nulla facilisi.</p>
+                    <p>Prior to Cirrus Spark, from selling his own merch shop to running a successful windows and gutters cleaning business during the covid-19 pandemic crisis. 
+                        Amine has always been a daring person and a risk taker. The smell of adventure is what motivates him to push further. Now as a computer scientist, 
+                        it is time for him to embark on a new challenge combining both his passion for entrepreneurship and the tech world. 
+                        Cirrus Spark is a vivid and new company eager to grow alongside Amine whose ambition is to make it a company for the good of the people. 
+                    </p>
                 </div>
 
             </div>
@@ -45,11 +44,10 @@ include("includes/header-2.php");
                 <div class="meet-info" data-aos="zoom-in-up">
                     <h4>SAMUEL CHUANG</h4>
                     <h5>CO-OWNER</h5>
-                    <p>Samuel is known as a person who loves working with technology and solving problems. 
-                        Teamwork and communication are some of his many strong points when it comes to dealing with big projects. 
-                        His studies in Graphic and Web design as well as Computer Science gave him a proper insight in the digital world. 
-                        In his university years, Samuel ran his very first business where he gets to have hands-on experience in dealing with clients and employees. 
-                        With all the knowledge and experience in mind, Samuel is ready to tackle this new adventure.
+                    <p>Known as a person who loves working with technology and problem solving, Samuel shows passion towards photography and videography at a young age. 
+                        This expanded his creative vision for good design. His studies in Graphic and Web design as well as Computer Science also gave him a proper insight in the digital world. 
+                        In his university years, Samuel ran his very first business where he gets to have hands-on experience in dealing with clients and employees. With all the knowledge and experience in mind, 
+                        Samuel is ready to tackle this new adventure.
                     </p>
                 </div>
             </div>
