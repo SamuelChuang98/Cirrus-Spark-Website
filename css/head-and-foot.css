@@ -161,6 +161,7 @@ footer h4{
     margin-top:5px;
 }
 
+
 /***************** footer-2 ******************/
 
 #beginProject {
@@ -180,7 +181,7 @@ footer h4{
 }
 
 #beginProject button:hover{
-    background:grey;
+    background:#2cb1e5;
     color:white;
     cursor:pointer;
 }

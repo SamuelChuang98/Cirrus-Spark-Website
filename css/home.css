@@ -109,8 +109,7 @@
 }
 
 #ourServices button:hover{
-    background:grey;
-    color:white;
+    background:#2cb1e5;
     cursor:pointer;
 }
 
