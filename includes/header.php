@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
     
@@ -39,7 +42,6 @@
             }
             }
         </script>
-      
     </head>
     
     <body>
@@ -72,22 +74,22 @@
         </div>
     <nav id="nav-row">
         <ul>
-            <li><a href="aboutUs.php">ABOUT US</a></li>
-            <li><a href="OurServices.php">OUR SERVICES</a></li>
-            <li><a href="index.php"><img src="img/logo.png" alt="logo" id="logo"></a></li>
+            <li><a href="aboutUs">ABOUT US</a></li>
+            <li><a href="OurServices">OUR SERVICES</a></li>
+            <li><a href="index"><img src="img/logo.png" alt="logo" id="logo"></a></li>
             <li><strike>OUR WORK</strike></li>
-            <li><a href="bookNow.php" id="bookNow-btn">BOOK NOW</a></li>        
+            <li><a href="bookNow" id="bookNow-btn">BOOK NOW</a></li>        
         </ul>
     </nav>
 
     <!-- Top Navigation Menu (For mobile and Tablet) -->
         <div class="topnav">
-        <a href="index.php"><img src="img/logo.png" alt="logo" id="logo"></a>
+        <a href="index"><img src="img/logo.png" alt="logo" id="logo"></a>
         <!-- Navigation links (hidden by default) -->
         <div id="myLinks">
-            <a href="aboutUs.php">ABOUT US</a>
-            <a href="OurServices.php">OUR SERVICES</a>
-            <a href="bookNow.php">BOOK NOW</a>
+            <a href="aboutUs">ABOUT US</a>
+            <a href="OurServices">OUR SERVICES</a>
+            <a href="bookNow">BOOK NOW</a>
         </div>
         <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
         <a href="javascript:void(0);" class="icon" onclick="menu()">

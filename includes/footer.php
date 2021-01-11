@@ -8,9 +8,9 @@
     <div id="connectFoot">
         <h4>STAY CONNECTED</h4>
         <ul>
-            <li><a href="https://www.facebook.com/CirrusSpark/"><img src="img/socialMedia/fb.svg" alt="Facebook"></a></li>
-            <li><a href="https://twitter.com/CirrusSpark"><img src="img/socialMedia/tw.svg" alt="Twitter"></a></li>
-            <li><a href="https://www.linkedin.com/company/cirrus-spark"><img src="img/socialMedia/in.svg" alt="Linkedin" id="in-icon"></a></li>
+            <li><a href="https://www.facebook.com/CirrusSpark/" target="_blank"><img src="img/socialMedia/fb.svg" alt="Facebook"></a></li>
+            <li><a href="https://twitter.com/CirrusSpark" target="_blank"><img src="img/socialMedia/tw.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.linkedin.com/company/cirrus-spark" target="_blank"><img src="img/socialMedia/in.svg" alt="Linkedin" id="in-icon"></a></li>
         </ul>
     </div>
 
