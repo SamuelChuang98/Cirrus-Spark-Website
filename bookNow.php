@@ -60,14 +60,22 @@
      </div>
  </section>
 
+ <script>
+     function checkforblank(){
+         if(document.getElementByID('name').value == ""){
+             alert('Please enter your Full Name');
+            return false;
+         }
+     }
+ </script>
 
  <div class ="quote">
     <h4>FREE QUOTE</h4>
     <p> Request today and recieve a <strong>15% discount!</strong></p>
 
 
-     <form class= "fo" action="feedback.php" method="post">
-         <input type="text" placeholder="Name" name="name"></br>
+     <form class= "fo" action="feedback.php" method="post" onsubmit="return checkforblank()">
+         <input type="text" placeholder="Full Name" name="name" id="name"></br>
          <input type="text" placeholder="Email" name="email"></br>
          <input type="text" placeholder="Phone Number" name="phoneNum"></br>
          <input type="text" placeholder="City/Town" name="city"></br>
