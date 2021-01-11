@@ -139,6 +139,8 @@
 .serv-desc h4{
     border-left:6px solid #2cb1e5;
     padding-left:5px;
+    font-size:25px;
+    margin-bottom:0px;
 }
 
 #serv-sect .serv-desc{

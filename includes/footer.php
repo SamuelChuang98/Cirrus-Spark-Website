@@ -17,7 +17,7 @@
     <div id="contactFoot">
         <h4>CONTACT US</h4>
         <ul>
-            <li><img src="img/socialMedia/email.svg" alt=""><a href="">info@cirrusspark.com</a></li>
+            <li><img src="img/socialMedia/email.svg" alt=""><a  href="mailto:info@cirrusspark.com">info@cirrusspark.com</a></li>
         </ul>
     </div>
 </footer>

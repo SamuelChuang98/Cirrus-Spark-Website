@@ -64,7 +64,7 @@
         >
             <div class="serv-desc" data-aos="fade-right">
                 <h4>SERVER INSTALLATION</h4>
-                <p>You can’t afford to lose your client data. Data management is essential in keeping information organized. 
+                <p>Data management is essential in keeping information organized. 
                     You need a secure place where you can store your client files that can be accessed from any of your computers 24/7 and a backup of your data. 
                     A server is what you need.We will work with you to secure your data and provide and set you up with our most reliable servers. </p>
                 <button onclick="location.href='OurServices.php'">LEARN MORE > </button>
