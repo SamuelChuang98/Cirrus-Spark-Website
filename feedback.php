@@ -10,9 +10,11 @@
 
 	$emailTo= "info@cirrusspark.com";
 	$headers = "From: ".$emailfrom;
-	$txt = "You have received an e-mail from ".$name.",\n\n".$comments;
+	$txt = "This inquiry is from ".$name.",\n\nClient infos:\nName: ".$name."\nEmail: ".$emailfrom."\nPhone Number: ".$phoneNum."City: "
+	.$city."\nService Intersted in: ".$service."\nComments: ".$comments."\n\n=============Please contact him to schedule a quote=============";
+	$subject = "Website Lead: ".$service;
 
-	mail($emailTo, $service, $txt, $headers);
+	mail($emailTo, $subject, $txt, $headers);
 	header("Location: thankyou.php");
 
 

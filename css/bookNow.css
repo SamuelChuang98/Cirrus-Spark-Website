@@ -90,6 +90,7 @@
         overflow: hidden;
         text-align: center;
         font-size: 25px;
+        margin-top: 2%;
     }
     
     .fo input, .fo select{
@@ -123,6 +124,7 @@
     }
 
     #submit:hover{
+        cursor: pointer;
         background-color: white;
         color: #249ccc;
     }
