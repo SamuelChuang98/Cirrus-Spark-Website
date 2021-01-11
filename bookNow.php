@@ -68,13 +68,10 @@
 
 
      <form class= "fo" action="feedback.php" method="post">
-         <input type="text" placeholder="Name"></br>
-         <input type="text" placeholder="Email"></br>
-         <input type="text" placeholder="Phone Number"></br>
-         <input type="text" placeholder="City/Town"></br>
-
-        
-
+         <input type="text" placeholder="Name" name="name"></br>
+         <input type="text" placeholder="Email" name="email"></br>
+         <input type="text" placeholder="Phone Number" name="phoneNum"></br>
+         <input type="text" placeholder="City/Town" name="city"></br>
            <select name="Service" id="Service">
            <option value="Service">Service</option>
              <option value="Web Desgin & Develoopement">Web Design & Developement</option>
@@ -82,7 +79,7 @@
              <option value="Digital Marketing">Digital Marketing</option>
            </select></br>
 
-         <textarea placeholder="Comments & specifications" id="comments"> </textarea>
+         <textarea placeholder="Comments & specifications" name ="comments" id="comments"> </textarea>
          <input type="submit" Value="BOOK NOW" id="submit">
 
      </form>
