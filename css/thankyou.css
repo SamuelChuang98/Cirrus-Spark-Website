@@ -28,6 +28,8 @@
 }
 
 .thanks button:hover{
+    cursor: pointer;
+    border: none;
     color: black;
     background-color: white;
 }

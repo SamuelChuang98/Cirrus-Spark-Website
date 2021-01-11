@@ -3,7 +3,6 @@
     $title="Book Now";
     $first_line="We would be more than <strong>HAPPY</strong>";
     $second_line="To work with <strong>YOU!</strong>";
-    $bg_img="img/lap2.jpg";
     
     
     include("includes/header.php");
@@ -73,7 +72,7 @@
          <input type="text" placeholder="Phone Number" name="phoneNum"></br>
          <input type="text" placeholder="City/Town" name="city"></br>
            <select name="Service" id="Service">
-           <option value="Service">Service</option>
+           <option value="Service" selected disabled >Service</option>
              <option value="Web Desgin & Develoopement">Web Design & Developement</option>
              <option value="Server Installation & Set up">Server Installation & Set up</option>
              <option value="Digital Marketing">Digital Marketing</option>

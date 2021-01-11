@@ -1,6 +1,6 @@
 <?php 
 
-if(isset($_POST['submit'])){
+
 	$name = $_POST['name'];
 	$emailfrom = $_POST['email'];
 	$phoneNum = $_POST['phoneNum'];
@@ -14,6 +14,6 @@ if(isset($_POST['submit'])){
 
 	mail($emailTo, $service, $txt, $headers);
 	header("Location: thankyou.php");
-}
+
 
 ?>
