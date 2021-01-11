@@ -45,12 +45,12 @@ include("includes/header-2.php");
                 <div class="meet-info" data-aos="zoom-in-up">
                     <h4>SAMUEL CHUANG</h4>
                     <h5>CO-OWNER</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Cras egestas viverra ante, consequat lobortis metus consectetur id. Aenean tortor ligula,
-                        dignissim nec consectetur egestas, iaculis ut magna. Sed non iaculis nunc.
-                        Sed at nibh vitae dui congue ultrices. Nunc eu eros a mi vulputate maximus.
-                        Ut purus nisi, euismod ullamcorper hendrerit ut, sagittis sed lectus. Praesent nec nisi at
-                        risus finibus laoreet nec vel libero. Nulla facilisi.</p>
+                    <p>Samuel is known as a person who loves working with technology and solving problems. 
+                        Teamwork and communication are some of his many strong points when it comes to dealing with big projects. 
+                        His studies in Graphic and Web design as well as Computer Science gave him a proper insight in the digital world. 
+                        In his university years, Samuel ran his very first business where he gets to have hands-on experience in dealing with clients and employees. 
+                        With all the knowledge and experience in mind, Samuel is ready to tackle this new adventure.
+                    </p>
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@ include("includes/header-2.php");
             <div class="value-item" data-aos="flip-left"
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="333">
-                <h4>Risk Takers</h4>
+                <h4>Risk Taking</h4>
                 <h5><i>"Life is either a daring adventure or nothing at all" </i></br> -Helen Keller </h5>
                 <p>Profits and perks belong to those who take risks, not the settlers.
                 Yes you heard it, no reward comes without risk. This is why at Cirrus spark we encourage 
@@ -72,7 +72,7 @@ include("includes/header-2.php");
             <div class="value-item" data-aos="flip-left"
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="666">
-                <h4>Innovators</h4>
+                <h4>Innovation</h4>
                 <h5><i>“The best way to predict the future is to create it.“ </i></br> -Alan Kay</h5>
                 <p>Innovation is our industry and it is what we do full time.
                 Whether it is implementing new features or developing new services
@@ -82,7 +82,7 @@ include("includes/header-2.php");
             <div class="value-item" data-aos="flip-left"
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="999">
-                <h4>Competitive</h4>
+                <h4>Competition</h4>
                 <h5><i>“Successful people compete against themselves, not against other people.” </i></br> -J.Adam Snyder</h5>
                 <p>Competition is a driver for innovation and progress.We embrace competition,
                 this idea to surpass yourself repeatedly is thrilling and is the reason why the train never stops.</p>
@@ -113,10 +113,12 @@ include("includes/header-2.php");
             <div class="value-item" data-aos="flip-left"
                                     data-aos-easing="ease-out-cubic"
                                     data-aos-duration="999">
-                <h4>Value 1</h4>
-                <h5>Subheading</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    In consequat enim finibus felis lobortis aliquet.</p>
+                <h4>customer satisfaction</h4>
+                <h5><i>"Unless you have 100% customer satisfaction...you must improve"</i></br> -Horst Schulze</h5>
+                <p>We believe in making the customers happy will be a key factor to the company's growth.
+                    This is why our #1 priority will be focusing solving their problems in order to gain their trust.
+                    We only conclude the project only once the client is 100% satisfied with their project.
+                </p>
             </div>
         </div>
 

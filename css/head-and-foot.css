@@ -169,6 +169,7 @@ footer h4{
 }
 
 #beginProject button{
+    margin-top:20px;
     background:black;
     color:white;
     border:none;
@@ -185,6 +186,15 @@ footer h4{
     color:#2cb1e5;
     font-weight:bold;
     font-size:30px;
+}
+
+#beginProject h2{
+    margin-bottom:0px;
+}
+
+#beginProject p{
+    margin:0px !important;
+    font-size:20px;
 }
 
 /******************** header-2 ********************/

@@ -44,13 +44,18 @@
         margin-top:5px;
     }
 
-#info-top button{
+#cta-btn button{
     float: left;
     background-color: black;
     color:white;
     border:none;
     margin-right:20px;
     padding:10px;
+}
+
+#cta-btn button:hover{
+    cursor:pointer;
+    background-color:#2cb1e5;
 }
 
 /* MISSION STATEMENT */
@@ -60,7 +65,7 @@
     background: #CFCFCF;
     background-size: cover;
     background-position: center;
-    height:300px;
+    padding:50px;
     overflow:hidden;
 }
 
@@ -69,7 +74,6 @@
     background:white;
     border-left:20px solid #2cb1e5;
     margin:0 auto;
-    margin-top:50px;
     padding:20px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
 }
@@ -176,8 +180,6 @@
     }
 
     #m-statement{
-        height:auto;
-        padding-bottom:10%;
         background-image: url("../img/mtl/mtl-l.jpg");
     }
 
@@ -213,6 +215,10 @@
 
    #m-statement{
         background-image: url("../img/mtl/mtl-m.jpg");
+    }
+
+    #statement-box{
+        width:80%;
     }
 }/* END of TABLET*/
 
