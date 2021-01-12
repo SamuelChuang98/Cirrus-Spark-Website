@@ -123,7 +123,10 @@
 <section class="in_between" id="in_between2">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="people-outline"></ion-icon>
-            <h4>Additional Service</br><strong>CLIENT MANAGEMENT</br>SYSTEM</strong></h4>
+            <div>
+                <span id="aServ">Additional Service</span>
+                <h3>CLIENT MANAGEMENT</br>SYSTEM</h3>
+            </div>
             <p>A Successful business runs with optimized and efficient software tools. Use technology to make your job easier. 
             From a client management system to statistics tools. We will  provide you with the right 
             tools to ensure high productivity. </p>

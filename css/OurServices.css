@@ -98,12 +98,28 @@
     border-left: solid #2cb1e5 35px;
 }
 
-.additional_service h4{
-    overflow: hidden;
-    font-size: 20px;
-    margin-top: 3%;
-    float: left;
 
+.additional_service div{
+    width:25%;
+    float:left;
+    margin-left:2%;
+}
+
+#aServ{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 0;
+    overflow: hidden;
+    margin-top:20px;
+    font-size: 20px;
+    float: left;
+    margin-bottom:0px;
+}
+
+.additional_service h3{
+    overflow: hidden;
+    font-size: 25px;
+    float: left;
+    margin-top:0px;
 }
 
 .additional_service p{
@@ -112,8 +128,8 @@
     font-weight: normal;
     font-size: 18px;
     width: 40%;
-    margin-top: 3%;
-    margin-left: 15%;
+    margin-top:20px;
+    margin-left: 10%;
 
 }
 
@@ -178,8 +194,16 @@
         background-attachment: fixed;
     }
 
+    .additional_service div{
+        width:25%;
+    }
+
+    .additional_service h3{
+        font-size:20px;
+    }
     .additional_service p{
-        width: 30%;
+        width: 40%;
+        margin-left:5%;
     }
 }
 
@@ -256,9 +280,18 @@
         margin-top: 2%;
     }
 
-    .additional_service h4{
+    #aServ{
         font-size: 18px;
-        float: none;
+        clear:both;
+    }
+
+    .additional_service h3{
+        margin-top:0px;
+        float:left;
+        clear:both;
+    }
+    .additional_service div{
+        width:70%;
     }
 
     .additional_service p{
@@ -341,7 +374,6 @@
 
     .additional_service h4{
         margin-top: 4%;
-        margin-left: 13%;
     }
 
     .additional_service p{
