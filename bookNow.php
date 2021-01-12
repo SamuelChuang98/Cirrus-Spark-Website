@@ -11,7 +11,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="css/bookNow.css">
-<script src="js/email-validation.js"></script>
+<script src="js/form-validation.js"></script>
 
 <section id="main">
 
@@ -69,21 +69,21 @@
 
 
      <form class= "fo" id= "form" action="feedback.php" method="post">
-         <input type="text" placeholder="Full Name" name="name" id="name" required></br>
-         <input type="text" placeholder="Email" name="email" id="email" required></br>
+         <input type="text" placeholder="Full Name" name="name" id="name" required>
+         <input type="text" placeholder="Email" name="email" id="email" required>
          <span id="invalidEmail">** Invalid Email **</span>
-         <input type="text" placeholder="Phone Number" name="phoneNum" id="phonenum" required></br>
-         <input type="text" placeholder="City/Town" name="city" id="city"></br>
+         <input type="text" placeholder="Phone Number" name="phoneNum" id="phonenum" required>
+         <input type="text" placeholder="City/Town" name="city" id="city">
            <select name="Service" id="Service" required>
            <option value="Service" selected disabled >-- Select a Service --</option>
              <option value="Web Desgin & Development">Web Design & Developement</option>
              <option value="Server Installation">Server Installation & Set up</option>
              <option value="Social Media Marketing">Digital Marketing</option>
-           </select></br>
-       
+           </select>
+        <span id="invalidService">** Please select a service **</span>
         <textarea placeholder="Comments & Specifications" name ="comments" id="comments"></textarea>
    
-         <input type="submit" Value="BOOK NOW" id="submit" onclick="return ValidateEmail()">
+         <input type="submit" Value="BOOK NOW" id="submit" onclick="return ValidateForm()">
 
      </form>
 </div>

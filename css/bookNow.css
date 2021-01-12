@@ -140,6 +140,12 @@
         display:none;
     }
 
+    #invalidService{
+        color:red;
+        margin-left:13%;
+        display:none;
+    }
+
     /***************************  MEDIA QUERY (MQ) ******************************/
 
 /*MEDIA QUERT for BIGGER DESKTOP*/

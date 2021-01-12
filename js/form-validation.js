@@ -1,4 +1,4 @@
-function ValidateEmail()
+function ValidateForm()
 {
 var email=document.getElementById("email");
 
@@ -7,7 +7,13 @@ var email=document.getElementById("email");
      /*Good email*/
     if(email.value.match(mailformat))
     {
-        return true;
+        if(document.getElementById("Service").value=="Service"){
+            document.getElementById("invalidService").style.display="inherit";
+            return false;
+        }
+        else{
+             return true;
+        }
     }
     /*Bad email*/
     else
