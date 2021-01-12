@@ -1,14 +1,16 @@
+
 .thanks{
     overflow: hidden;
     text-align: center;
-    background-color: #2cb1e5;
     color: white;
-    padding-bottom: 12%;
+    padding-top: 8.5%;
+    padding-bottom: 8.65%;
+    
 }
 
 .thanks h1{
     overflow: hidden;
-    margin-top: 12%;
+    margin-top: 5%;
     font-size: 40px;
 }
 
@@ -39,8 +41,17 @@
     height: 40px;
 }
 
-/***************************  MEDIA QUERY (MQ) ******************************/
+#square{
+    overflow: hidden;
+    border: solid black 10px;
+    margin-top: 15%;
+    margin: 0 auto;
+    width: 60%;
+    padding: 2%;
+    background-color: #2cb1e5;
+}
 
+/***************************  MEDIA QUERY (MQ) ******************************/
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
     
