@@ -60,26 +60,19 @@
      </div>
  </section>
 
- <script>
-     function checkforblank(){
-         if(document.getElementByID('name').value == ""){
-             alert('Please enter your Full Name');
-            return false;
-         }
-     }
- </script>
+ <script defer src="form.js"></script>
 
  <div class ="quote">
     <h4>FREE QUOTE</h4>
     <p> Request today and recieve a <strong>15% discount!</strong></p>
 
 
-     <form class= "fo" action="feedback.php" method="post" onsubmit="return checkforblank()">
-         <input type="text" placeholder="Full Name" name="name" id="name"></br>
-         <input type="text" placeholder="Email" name="email"></br>
-         <input type="text" placeholder="Phone Number" name="phoneNum"></br>
-         <input type="text" placeholder="City/Town" name="city"></br>
-           <select name="Service" id="Service">
+     <form class= "fo" id= "form" action="feedback.php" method="post">
+         <input type="text" placeholder="Full Name" name="name" id="name" required></br>
+         <input type="text" placeholder="Email" name="email" id="email" required></br>
+         <input type="text" placeholder="Phone Number" name="phoneNum" id="phonenum" required></br>
+         <input type="text" placeholder="City/Town" name="city" id="city"></br>
+           <select name="Service" id="Service" required>
            <option value="Service" selected disabled >Service</option>
              <option value="Web Desgin & Develoopement">Web Design & Developement</option>
              <option value="Server Installation & Set up">Server Installation & Set up</option>
@@ -87,7 +80,7 @@
            </select></br>
 
          <textarea placeholder="Comments & specifications" name ="comments" id="comments"> </textarea>
-         <input type="submit" Value="BOOK NOW" id="submit">
+         <input type="submit" Value="BOOK NOW" id="submit" onclick="ValidateEmail(email)">
 
      </form>
 </div>
