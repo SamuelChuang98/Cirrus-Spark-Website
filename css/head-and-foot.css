@@ -25,9 +25,12 @@ nav {
     overflow:hidden;
     box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.25);
     width:100%;
-    position:fixed;
     background:white;
     z-index:10000;
+}
+
+.topnav{
+    display:none;
 }
 
 ul {
@@ -291,6 +294,7 @@ footer h4{
     .topnav {
         overflow: hidden;
         position: relative;
+        display:inherit;
     }
     
     /* Hide the links inside the navigation menu (except for logo/home) */

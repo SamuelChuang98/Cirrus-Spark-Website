@@ -9,7 +9,7 @@
         <p>You will be contacted within the next 1-2 business days by phone or email.
         </br><strong>HAVE A NICE DAY! </strong> <ion-icon name="happy-outline"></ion-icon>
         </p>
-        <button onclick="location.href='index.php'"><ion-icon name="return-up-back-outline"></ion-icon></button>
+        <button onclick="location.href='index'"><ion-icon name="return-up-back-outline"></ion-icon></button>
 </div>
 <?php
     include("includes/footer.php");

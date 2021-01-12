@@ -11,6 +11,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="css/bookNow.css">
+<script src="js/email-validation.js"></script>
 
 <section id="main">
 
@@ -64,23 +65,25 @@
 
  <div class ="quote">
     <h4>FREE QUOTE</h4>
-    <p> Request today and recieve a <strong>15% discount!</strong></p>
+    <p> Request today and receive a <strong>15% discount!</strong></p>
 
 
      <form class= "fo" id= "form" action="feedback.php" method="post">
          <input type="text" placeholder="Full Name" name="name" id="name" required></br>
          <input type="text" placeholder="Email" name="email" id="email" required></br>
+         <span id="invalidEmail">** Invalid Email **</span>
          <input type="text" placeholder="Phone Number" name="phoneNum" id="phonenum" required></br>
          <input type="text" placeholder="City/Town" name="city" id="city"></br>
            <select name="Service" id="Service" required>
-           <option value="Service" selected disabled >Service</option>
-             <option value="Web Desgin & Develoopement">Web Design & Developement</option>
-             <option value="Server Installation & Set up">Server Installation & Set up</option>
-             <option value="Digital Marketing">Digital Marketing</option>
+           <option value="Service" selected disabled >-- Select a Service --</option>
+             <option value="Web Desgin & Development">Web Design & Developement</option>
+             <option value="Server Installation">Server Installation & Set up</option>
+             <option value="Social Media Marketing">Digital Marketing</option>
            </select></br>
-
-         <textarea placeholder="Comments & specifications" name ="comments" id="comments"> </textarea>
-         <input type="submit" Value="BOOK NOW" id="submit" onclick="ValidateEmail(email)">
+       
+        <textarea placeholder="Comments & Specifications" name ="comments" id="comments"></textarea>
+   
+         <input type="submit" Value="BOOK NOW" id="submit" onclick="return ValidateEmail()">
 
      </form>
 </div>

@@ -15,7 +15,7 @@
 	$subject = "Website Lead: ".$service;
 
 	mail($emailTo, $subject, $txt, $headers);
-	header("Location: thankyou.php");
+	header("Location: thankyou");
 
 
 ?>

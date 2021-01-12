@@ -38,8 +38,10 @@
     }
 
     .instruction{
-        padding-top: 5%;
+        padding-top: 10px;
         margin-left: 25%;
+        clear:both;
+        overflow:hidden;
     }
 
     .text{
@@ -48,19 +50,20 @@
 
     .text p{
         overflow: hidden;
-        font-size: 25px;
+        font-size: 20px;
         padding-top: 9%;
     }
 
     .steps{
         overflow: hidden;
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .number{
         overflow: hidden;
         float: left;
-        font-size: 55px;
+        font-size: 45px;
+        margin-top:10px;
     }
 
     .number h2 strong{
@@ -84,13 +87,14 @@
         overflow: hidden;
         font-size: 40px;
         text-align: center;
+        margin-bottom:0px;
     }
 
     .quote p{
         overflow: hidden;
         text-align: center;
-        font-size: 25px;
-        margin-top: 2%;
+        font-size: 20px;
+        margin-top:0px;
     }
     
     .fo input, .fo select{
@@ -120,13 +124,20 @@
         height: 80px;
         background-color: #249ccc;
         color: white;
-        font-size: 36px;
+        font-size: 25px;
+        border:none;
     }
 
     #submit:hover{
         cursor: pointer;
         background-color: white;
         color: #249ccc;
+    }
+
+    #invalidEmail{
+        color:red;
+        margin-left:13%;
+        display:none;
     }
 
     /***************************  MEDIA QUERY (MQ) ******************************/
