@@ -14,10 +14,11 @@
 .left_Presentation_text h3{
     overflow: hidden;
     margin-left: 18.5%;
-    margin-top: 30%;
+    margin-top: 25%;
     border-left: white solid 15px;
     font-size: 48px;
     padding-left: 10px;
+    
 }
 
 .left_Presentation_text p{
@@ -38,6 +39,7 @@
     font-weight: bold;
     color: white;
     background-color: black;
+    border:none;
 }
 
 .left_Presentation_text button:hover{
@@ -59,7 +61,7 @@
     float: left;
     width: 50%;
     height: 50%;
-    background-color: #8AC7DB;
+    background-color: #b8dde9;
     text-align: center;
 }
 
@@ -94,25 +96,28 @@
     margin-top: 10%;
     margin-bottom: 10%;
     padding: 2%;
+    padding-left:5%;
     background-color: white;
     border-left: solid #2cb1e5 35px;
 }
 
 
 .additional_service div{
-    width:25%;
+    width:30%;
     float:left;
     margin-left:2%;
+    margin-top:40px;
 }
 
 #aServ{
     font-family: 'Nunito', sans-serif;
-    font-weight: bold;
+    text-transform: uppercase;
     overflow: hidden;
-    margin-top:20px;
-    font-size: 20px;
+    font-size: 15px;
     float: left;
     margin-bottom:0px;
+    clear:both;
+    width:100%;
 }
 
 .additional_service h3{
@@ -120,6 +125,8 @@
     font-size: 25px;
     float: left;
     margin-top:0px;
+    clear:both;
+    width:100%;
 }
 
 .additional_service p{
@@ -136,9 +143,13 @@
 .additional_service ion-icon{
     overflow: hidden;
     float: left;
-    margin-left: 5%;
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
+    margin-top:30px;
+}
+
+.in_between{
+    background-size: cover;
 }
 
 /***************************  MEDIA QUERY (MQ) ******************************/
@@ -194,8 +205,12 @@
         background-attachment: fixed;
     }
 
+    .additional_service {
+        width:80%;
+    }
+
     .additional_service div{
-        width:25%;
+        width:30%;
     }
 
     .additional_service h3{
@@ -228,7 +243,6 @@
     #in_between3{
         overflow: hidden;
         background-image: url('../img/social/social-m.jpg');
-        background-size: cover;
         background-attachment: fixed;
     }
 
@@ -292,6 +306,7 @@
     }
     .additional_service div{
         width:70%;
+        margin-top:20px;
     }
 
     .additional_service p{
@@ -379,5 +394,13 @@
     .additional_service p{
         width: 100%;
         margin-left: 0%;
+    }
+
+    .dblue{
+        background-color: #b8dde9;
+    }
+
+    .lblue{
+        background-color: #D4F1F4;
     }
 }
