@@ -2,8 +2,8 @@
     $page_title="Book Now |  Cirrus Spark";
     $title="Book Now";
 
-    $desc="Book a free estimate with us today!";
-    $keys="book now, contact us, email, phone number, more info, web development, servers";
+    $desc="We bring the tools of the big players to everyone. Book a FREE estimate with us today to join the champion's league!";
+    $keys="book now, contact us, email, phone number, more info, web development, servers, social media marketing, marketing, social media, web design";
     
     $first_line="We would be more than <strong>HAPPY</strong>";
     $second_line="To work with <strong>YOU!</strong>";
@@ -58,7 +58,7 @@
              </div>
              <div class="text">
                  <h3 class= "steps">SIT BACK AND RELAX</h3>
-                 <p>Regular review meetings</strong> will occur to make sure we are on the right path</p>
+                 <p><strong>Regular review meetings</strong> will occur to make sure we are on the right path</p>
              </div>
 
          </div>

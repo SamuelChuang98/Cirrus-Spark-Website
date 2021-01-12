@@ -284,6 +284,10 @@
         width: 100%;
     }
 
+    .pres_square ion-icon{
+        margin-top: 4%;
+    }
+
     .additional_service{
         border-left: solid #2cb1e5 15px;
     }
