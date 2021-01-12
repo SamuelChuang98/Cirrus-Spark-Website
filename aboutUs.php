@@ -2,6 +2,10 @@
 
 $page_title="About Us |  Cirrus Spark";
 $title="About Us";
+
+$desc="Learn more about the duo behind the company & their values!";
+$keys="about us, duo, computer science, values, web development";
+
 $first_line="Your <strong>SATISFACTION</strong> will always";
 $second_line="be our <strong>#1 PRIORITY</strong>";
 

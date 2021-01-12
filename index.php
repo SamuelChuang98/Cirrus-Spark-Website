@@ -1,5 +1,9 @@
 <?php
     $page_title = "Welcome to Cirrus Spark";
+
+    $desc="Welcome to CirrusSpark, a tech and marketing agency. We focus on bringing small business into the spotlight.";
+    $keys="web development, server installation, social media marketing, canada, montreal, quebec, local, small business, medium business";
+
     include("includes/header.php");
 ?>
 
