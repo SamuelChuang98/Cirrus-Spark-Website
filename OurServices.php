@@ -63,7 +63,8 @@
 <section class="in_between" id="in_between1">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="server-outline"></ion-icon>
-            <h4>Additional Service</br><strong>WEB HOSTING</strong></h4>
+            <span id="aServ">Additional Service</span>
+            <h3>WEB HOSTING</h3>
             <p> Now that your website is all well in done you need a server to host the website 
             and publish it in the internet for the world to see ! We have your solution 
             we can host your website in our servers.</p>
@@ -183,7 +184,8 @@
 <section class="in_between" id="in_between3">
     <section class="additional_service" data-aos="zoom-in-down">
             <ion-icon name="share-social-outline"></ion-icon>
-            <h4>Additional Service</br><strong>SOCIAL MEDIA</br>MANAGEMENT</strong></h4>
+            <span id="aServ">Additional Service</span>
+            <h3>SOCIAL MEDIA</br>MANAGEMENT</h3>
             <p>Promote your brand values and core ideas 
             through your social media communications and posts by using the right tools.
             We will make sure you achieve your marketing target this year.
