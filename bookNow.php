@@ -1,6 +1,10 @@
 <?php
     $page_title="Book Now |  Cirrus Spark";
     $title="Book Now";
+
+    $desc="Book a free estimate with us today!";
+    $keys="book now, contact us, email, phone number, more info, web development, servers";
+    
     $first_line="We would be more than <strong>HAPPY</strong>";
     $second_line="To work with <strong>YOU!</strong>";
     
@@ -20,41 +24,41 @@
  <section id="getintouch">
      <h2 id="touch"><strong> GET IN TOUCH</strong></br>WITH US <strong>TODAY</strong></h2>
 
-     <p data-aos="fade-down-right"> 
+     <p data-aos="fade-down-right" id="sbs-inst"> 
          Our <strong>step-by-step</strong> estimate process
          is built to deliver the service of
          <strong>YOUR</strong> requirements
      </p>
 
-     <div class = "list">
+     <div class="list">
 
          <div class ="instruction" data-aos="fade-down-right">
              <div class="number">
-                <h2><strong>1</strong></h2>
+                <h2>1</h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">FILL IN THE FORM</strong></br><span>You will be contacted within the
-                 <strong>next 1-2 business days</strong></span></p>
+                 <h3 class= "steps">FILL IN THE FORM</h3>
+                 <p>You will be contacted within the <strong>next 1-2 business days</strong></p>
              </div>
          </div>
 
          <div class="instruction" data-aos="fade-down-right">
          <div class= "number">
-                <h2><strong>2</strong></h2>
+                <h2>2</h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">SCHEDULE A MEETING</strong></br><span>Tell us all of your requirements
-                 and we come up <strong>with our solution</strong></span></p>
+                 <h3 class= "steps">SCHEDULE A MEETING</h3>
+                 <p>Tell us all of your requirements and we come up <strong>with our solution</strong></p>
              </div>
 
          </div>
          <div class="instruction" data-aos="fade-down-right">
          <div class= "number">
-                <h2><strong>3</strong></h2>
+                <h2>3</h2>
              </div>
              <div class="text">
-                 <p><strong class= "steps">SIT BACK AND RELAX</strong></br><span><strong>Regular review meetings</strong> will occur
-                 to make sure we are on the right path</span></p>
+                 <h3 class= "steps">SIT BACK AND RELAX</h3>
+                 <p>Regular review meetings</strong> will occur to make sure we are on the right path</p>
              </div>
 
          </div>

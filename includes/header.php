@@ -8,7 +8,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title><?php echo $page_title;?></title>
-        <meta name="description" content="">
+        <meta name="description" content="<?php echo $desc;?>">
+        <meta name="keywords" content="<?php echo $keys?>">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="css/head-and-foot.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
