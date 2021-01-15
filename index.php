@@ -10,7 +10,7 @@
 <link rel="stylesheet" type="text/css" href="css/home.css">
 
 <section class="wrapper">
-    <section id="main-top">
+    <section id="main-top" title="Tech Background">
         <div id="info-top">
             <h2 data-aos="zoom-out"> Spark </br> a new start</h2>
 
@@ -27,7 +27,7 @@
         </div>
         
     </section>
-    <section id="m-statement">
+    <section id="m-statement" title="Montreal">
         <div id="statement-box" data-aos="fade-up">
             <h2>Our Mission</h2>
             <p>Based in Montreal, Cirrus Spark is a tech and web marketing agency dedicated in bringing small and medium size businesses to light 

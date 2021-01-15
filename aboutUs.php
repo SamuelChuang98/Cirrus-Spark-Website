@@ -28,7 +28,7 @@ include("includes/header-2.php");
         <h3>Meet The Duo</h3>
         <div id="meetDuo-2">
             <div id="Amine">
-                <div class="proPic" onclick="window.open('https://www.linkedin.com/in/amine-kabene-a8a844155/', '_blank');" style="cursor: pointer;" data-aos="flip-left">
+                <div class="proPic" onclick="window.open('https://www.linkedin.com/in/amine-kabene-a8a844155/', '_blank');" style="cursor: pointer;" data-aos="flip-left" title="Amine Kabene">
                 </div>
                 <div class="meet-info" data-aos="zoom-in-up">
                     <h4>Amine Kabene</h4>
@@ -43,7 +43,7 @@ include("includes/header-2.php");
             </div>
 
             <div id="Sam">
-                    <div class="proPic" onclick="window.open('https://www.linkedin.com/in/samuel-chuang-53723915a/', '_blank');" style="cursor: pointer;" data-aos="flip-right">
+                    <div class="proPic" onclick="window.open('https://www.linkedin.com/in/samuel-chuang-53723915a/', '_blank');" style="cursor: pointer;" data-aos="flip-right" title="Samuel Chuang">
                     </div>
                 <div class="meet-info" data-aos="zoom-in-up">
                     <h4>Samuel Chuang</h4>
