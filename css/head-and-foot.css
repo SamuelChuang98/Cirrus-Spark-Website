@@ -65,6 +65,10 @@ ul a:hover{
     border-bottom: 2px solid #2cb1e5;
 }
 
+#nav-row{
+    text-transform: uppercase;
+}
+
 .fa, .fa-bars{
     display:none;
 }
@@ -95,6 +99,7 @@ footer {
 
 footer h4{
     color: #2cb1e5;
+    text-transform: uppercase;
 }
 
 /* logo footer */
@@ -181,6 +186,7 @@ footer h4{
     color:white;
     border:none;
     padding:10px;
+    text-transform: uppercase;
 }
 
 #beginProject button:hover{
@@ -197,6 +203,7 @@ footer h4{
 
 #beginProject h2{
     margin-bottom:0px;
+    text-transform: uppercase;
 }
 
 #beginProject p{
@@ -224,11 +231,17 @@ footer h4{
     position:absolute;
     text-transform:uppercase;
     color:white;
-    font-family: 'Heebo', sans-serif;
+    
     }
 
 #center-text p{
     font-size: 30px !important;
+    
+}
+
+#center-text strong {
+    font-family: 'Heebo', sans-serif;
+    font-size:35px;
 }
 
 #verticaltext{
@@ -301,6 +314,7 @@ footer h4{
     .topnav #myLinks {
         display: none;
         border-top:5px solid #2cb1e5;
+        text-transform: uppercase;
     }
     
     /* Style navigation menu links */
@@ -364,6 +378,11 @@ footer h4{
 
 /* MQ for MOBILE*/
 @media screen and (max-width:480px){
+    p{
+        font-size:15px;
+    }
+
+
     #beginProject {
         background-image: url("../img/home-bg/bg-s.jpg");
     }
@@ -376,5 +395,31 @@ footer h4{
 
     #contactFoot{
         border-top: none;
+    }
+
+    #center-text{
+        margin-top:120px;
+    }
+
+    #center-text p{
+        font-size: 20px !important;
+    }
+    
+    #center-text strong {
+        font-size:25px;
+    }
+
+    #verticaltext{
+        font-size:45px;
+        margin-left:-170px;
+        margin-top:170px;
+    }
+
+    #top{
+        height:450px;
+    }
+
+    #beginProject p{
+        font-size:18px;
     }
 }

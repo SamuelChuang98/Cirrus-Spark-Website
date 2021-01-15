@@ -23,6 +23,7 @@
 
 #info-top h2{
     font-size:50px;
+    text-transform: uppercase;
 }
 
     #withUs {
@@ -51,6 +52,7 @@
     border:none;
     margin-right:20px;
     padding:10px;
+    text-transform: uppercase;
 }
 
 #cta-btn button:hover{
@@ -80,6 +82,7 @@
 
 #statement-box h2{
     text-align:center;
+    text-transform: uppercase;
 }
 
 #statement-box p{
@@ -99,6 +102,7 @@
     border-bottom:1px solid black;
     width:200px;
     margin:0 auto;
+    text-transform: uppercase;
 }
 
 #ourServices button{
@@ -106,6 +110,7 @@
     color:white;
     border:none;
     padding:10px;
+    text-transform: uppercase;
 }
 
 #ourServices button:hover{
@@ -140,6 +145,7 @@
     padding-left:5px;
     font-size:25px;
     margin-bottom:0px;
+    text-transform: uppercase;
 }
 
 #serv-sect .serv-desc{
@@ -235,8 +241,15 @@
         background-position: center;
     }
 
+    #m-statement{
+        padding:10px;
+        width:100%;
+        overflow:hidden;
+    }
+
     #statement-box{
         width:75%;
+        margin:0 auto;
     }
 
     #info-top{

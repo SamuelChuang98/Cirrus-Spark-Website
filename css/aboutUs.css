@@ -15,6 +15,7 @@
     margin-top:0;
     border-left: 15px solid #2cb1e5;
     padding-left:10px;
+    text-transform: uppercase;
 }
 
 #story p{
@@ -40,6 +41,7 @@
     border-bottom:5px solid black;
     width:240px;
     margin:auto;
+    text-transform: uppercase;
 }
 
 #Amine, #Sam {
@@ -88,11 +90,13 @@
     font-size:30px;
     font-weight:900;
     margin-bottom:5px;
+    text-transform: uppercase;
 }
 
 .meet-info h5{
     font-size:20px;
     margin-top:-10px;
+    text-transform: uppercase;
 }
 
 #meetDuo p{
@@ -122,6 +126,7 @@
     margin-top:0;
     border-left: 15px solid #2cb1e5;
     padding-left:10px;
+    text-transform: uppercase;
 }
 
 .values-row {

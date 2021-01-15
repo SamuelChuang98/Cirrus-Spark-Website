@@ -1,10 +1,10 @@
 <?php
 
-$page_title="About Us |  Cirrus Spark";
+$page_title="About Us | Montreal Web Design & Marketing | Cirrus Spark";
 $title="About Us";
 
 $desc="Learn more about the duo behind the company & their values!";
-$keys="about us, duo, computer science, values, web development";
+$keys="about us, duo, computer science, values, web development, entrepreneurs";
 
 $first_line="Your <strong>SATISFACTION</strong> will always";
 $second_line="be our <strong>#1 PRIORITY</strong>";
@@ -17,7 +17,7 @@ include("includes/header-2.php");
 <link rel="stylesheet" type="text/css" href="css/aboutUs.css">
 
     <section id="story"> 
-        <h3 data-aos="fade-right">OUR </br>STORY</h3> 
+        <h3 data-aos="fade-right">Our </br>Story</h3> 
         <p data-aos="fade-up">One day, two young aspiring entrepreneurs came together with a genius idea to build a business for the good of others. 
         Cirrus Spark is a tech and marketing agency dedicated to bringing small and medium business to light with new age technology and resources. 
         We believe that anything is possible as long as the business is set with a great marketing material. In the world of web and media, do you have 
@@ -25,14 +25,14 @@ include("includes/header-2.php");
     </section>
 
     <section id="meetDuo">
-        <h3>MEET THE DUO</h3>
+        <h3>Meet The Duo</h3>
         <div id="meetDuo-2">
             <div id="Amine">
                 <div class="proPic" onclick="window.open('https://www.linkedin.com/in/amine-kabene-a8a844155/', '_blank');" style="cursor: pointer;" data-aos="flip-left">
                 </div>
                 <div class="meet-info" data-aos="zoom-in-up">
-                    <h4>AMINE KABENE</h4>
-                    <h5>CO-OWNER</h5>
+                    <h4>Amine Kabene</h4>
+                    <h5>Co-owner</h5>
                     <p>Prior to Cirrus Spark, from selling his own merch shop to running a successful windows and gutters cleaning business during the covid-19 pandemic crisis. 
                         Amine has always been a daring person and a risk taker. The smell of adventure is what motivates him to push further. Now as a computer scientist, 
                         it is time for him to embark on a new challenge combining both his passion for entrepreneurship and the tech world. 
@@ -46,8 +46,8 @@ include("includes/header-2.php");
                     <div class="proPic" onclick="window.open('https://www.linkedin.com/in/samuel-chuang-53723915a/', '_blank');" style="cursor: pointer;" data-aos="flip-right">
                     </div>
                 <div class="meet-info" data-aos="zoom-in-up">
-                    <h4>SAMUEL CHUANG</h4>
-                    <h5>CO-OWNER</h5>
+                    <h4>Samuel Chuang</h4>
+                    <h5>Co-owner</h5>
                     <p>Known as a person who loves working with technology and problem solving, Samuel shows passion towards photography and videography at a young age. 
                         This expanded his creative vision for good design. His studies in Graphic and Web design as well as Computer Science also gave him a proper insight in the digital world. 
                         In his university years, Samuel ran his very first business where he gets to have hands-on experience in dealing with clients and employees. With all the knowledge and experience in mind, 
@@ -59,7 +59,7 @@ include("includes/header-2.php");
     </section>
 
     <section id="ourValues">
-        <h3 data-aos="fade-right">OUR VALUES</h3>
+        <h3 data-aos="fade-right">Our Values</h3>
 
         <div class="values-row">
             <div class="value-item" data-aos="flip-left"

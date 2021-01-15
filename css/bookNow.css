@@ -21,6 +21,10 @@
         float: left;
         padding-bottom: 15%;
     }
+
+    #getintouch h2{
+        text-transform: uppercase;
+    }
     
     #touch{
         border-left: #2cb1e5 15px solid;
@@ -37,8 +41,11 @@
         color:black;
     }
 
+    #sbs-inst strong {
+        text-transform: uppercase;
+    }
+
     .instruction{
-        padding-top: 10px;
         margin-left: 25%;
         margin-bottom:100px;
         clear:both;
@@ -57,6 +64,7 @@
         width:100%;
         margin-bottom:0px;
         margin-top:15px;
+        text-transform: uppercase;
     }
 
     .text p{
@@ -100,6 +108,7 @@
         font-size: 40px;
         text-align: center;
         margin-bottom:0px;
+        text-transform: uppercase;
     }
 
     .quote p{
@@ -140,6 +149,7 @@
         color: white;
         font-size: 25px;
         border:none;
+        text-transform: uppercase;
     }
 
     #submit:hover{

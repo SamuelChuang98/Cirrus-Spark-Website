@@ -75,11 +75,11 @@
         </div>
     <nav id="nav-row">
         <ul>
-            <li><a href="aboutUs">ABOUT US</a></li>
-            <li><a href="OurServices">OUR SERVICES</a></li>
+            <li><a href="aboutUs">About Us</a></li>
+            <li><a href="OurServices">Our Services</a></li>
             <li><a href="index"><img src="img/logo.png" alt="logo" id="logo"></a></li>
-            <li><strike>OUR WORK</strike></li>
-            <li><a href="bookNow" id="bookNow-btn">BOOK NOW</a></li>        
+            <li><strike>Our Work</strike></li>
+            <li><a href="bookNow" id="bookNow-btn">Book Now</a></li>        
         </ul>
     </nav>
 
@@ -88,9 +88,9 @@
         <a href="index"><img src="img/logo.png" alt="logo" id="logo"></a>
         <!-- Navigation links (hidden by default) -->
         <div id="myLinks">
-            <a href="aboutUs">ABOUT US</a>
-            <a href="OurServices">OUR SERVICES</a>
-            <a href="bookNow">BOOK NOW</a>
+            <a href="aboutUs">About Us</a>
+            <a href="OurServices">Our Services</a>
+            <a href="bookNow">Book Now</a>
         </div>
         <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
         <a href="javascript:void(0);" class="icon" onclick="menu()">
