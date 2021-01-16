@@ -15,7 +15,7 @@
 	$subject = "Website Lead: ".$service;
 
 	mail($emailTo, $subject, $txt, $headers);
+
+	//Redirect to thank you page
 	header("Location: thankyou");
-
-
 ?>

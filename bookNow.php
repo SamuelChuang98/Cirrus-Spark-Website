@@ -80,7 +80,7 @@
          <input type="text" placeholder="City/Town" name="city" id="city">
            <select name="Service" id="Service" required>
            <option value="Service" selected disabled >-- Select a Service --</option>
-             <option value="Web Desgin & Development">Web Design</option>
+             <option value="Web Design & Development">Web Design</option>
              <option value="Server Installation">Server Installation</option>
              <option value="Social Media Marketing">Social Media Marketing</option>
            </select>
