@@ -38,6 +38,16 @@
     border-radius: 5px;
 }
 
+#Username:focus{
+    cursor: pointer;
+    border: solid 4px #249ccc;
+}
+
+#Password:focus{
+    cursor: pointer;
+    border: solid 4px #249ccc;
+}
+
 /***************************  MEDIA QUERY (MQ) ******************************/
 
 /*MEDIA QUERT for BIGGER DESKTOP*/

@@ -21,7 +21,7 @@
          <input type="text" class="input" placeholder="Username" name="Username" id="Username" required>
          <input type="text"  class ="input" placeholder="Password" name="Password" id="Password" required>
    
-         <input type="submit" class ="input" Value="Log in" id="connect" onclick="return ()">
+         <input type="submit" class ="input" Value="LOG IN" id="connect" onclick="return ()">
 
      </form>
 
