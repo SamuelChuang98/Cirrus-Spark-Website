@@ -53,14 +53,14 @@
 /*MEDIA QUERT for BIGGER DESKTOP*/
 @media screen and (min-width:1200px){
     .login{
-        width: 37%;
+        width: 30%;
     }
 }
 
 /* MQ for DESKTOP*/
 @media screen and (max-width:1200px){
     .login{
-        width: 60%;
+        width: 50%;
         margin-top: 15%;
     }
 }
@@ -68,7 +68,7 @@
 /* MQ for TABLET*/
 @media screen and (max-width:980px){
     .login{
-        width: 75%;
+        width: 65%;
     }
    
    
